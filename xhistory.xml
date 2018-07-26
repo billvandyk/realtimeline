@@ -1,0 +1,47 @@
+<data>
+
+<event 
+start="Jan 31 2012 00:00:00 GMT" 
+title="Bill starts learning xml."
+image="images/2000s/20060713-boston.png" 
+icon="icons/orange.png"
+color="blue">
+Bill creates a historical timeline to experiment with xml format and the java app, timeline.
+</event>
+
+<event  
+start= "1956-01-01"
+title= "Bill Van Dyk born."
+description= "Bill Van Dyk, Canadian Fool, 1956-2012"
+image= "images/1960s/1957albert-eddy-billy.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon="icons/green-circle.png">
+Notes here
+</event>
+
+<event  
+start= "1963-10-12"
+end= "1963-12-10"
+title= "Billy goes to Holland"
+description= "With mom.  Uncle William buys me a train set. We were there for Dec 6 Xmas in Holland"
+image= "images/1960s/196411-holland-7.png"
+link= "http://www.chromehorse.net/timeline/details"
+color= "green"
+icon= "icons/green-circle.png">
+Notes here
+</event>
+
+<event  
+start= "1970-09-01"
+end= "1971-06-30"
+title= "Grade 9."
+description= "Home room teacher probably James Zyl."
+image= "images/1970s/1970-grace-prinzen.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon= "icons/dark-red-circle.png"
+color= "red"
+textcolor= "green">
+Notes here
+</event>
+
+</data>

@@ -1,0 +1,361 @@
+﻿/*==========
+Author: Bill Van Dyk
+Last Update: 2013-12
+Application: chconnect/department
+
+Each department will have their own css file (eg. it.css)
+ 
+swatch colors: admin
+-------------
+13437a - dark blue
+1d74be - mid blue
+e1e1e1 - light gray
+a3a4a4 - mid gray
+8a8a8a - gray
+
+Major tags:
+-------------
+	body			page background
+	container  		(over all page wrap)
+	content  		(most of the content)
+	navAlpha		(left column)
+	navBeta			(right column)
+	footer			(!)
+	bullets		
+		ol 			(ordered lists)	
+		ul 			(unordered)	
+		li	
+	tables 			th	tr	td	
+	badge 			(floating box for inserted annotations)
+	centeredImage	div for images, float
+	
+	NOTE! - for borders, you must specify style before another other parameters!
+	
+========== */
+
+body {
+	background-color: #f8e6FA;
+	margin:20px;
+	padding:0px;
+	font:12px verdana, arial, helvetica, sans-serif;
+	}
+	
+#container {
+	position:relative;
+	width:auto;
+	width:1184px;
+	left:60;
+	height:auto;
+	background-color:lavender;
+	border:1px;
+	border-color:#CCCCCC;
+	padding:10px;
+	margins:15px;
+	}	
+	
+#gbox {
+	float:right;
+	position:absolute;
+	top:275px;
+	right:350px;
+	width:300px;
+	height:300px;
+	margin:0px;
+	font: 12px/20px helvetica, sans-serif;
+	color:#5564AC;
+	color:#3E3B3C;
+	padding:1px;
+	font-weight: 600;
+}
+	
+h1, h2, h3 {
+	font-family: Arial, Helvetica, Verdana, sans-serif;
+	font-weight: normal;
+	}
+
+h1 {
+	margin:0px 0px 15px 0px;
+	padding:0px;
+	font-size:28px;
+	font-weight:900;
+	color:#ccc;
+	}
+
+h2 {
+	font:bold 14px/16px verdana, arial, helvetica, sans-serif;
+	color: #666666;
+	margin:5px 0px 0px 0px;
+	padding:0px;	
+	}
+
+h3 {
+	padding:6px;
+	font-size: 1em;
+	}
+
+h4 {
+	font:bold 14px/16px verdana, arial, helvetica, sans-serif;
+	margin:0px 0px 5px 0px;
+	padding:3px;	
+	color:#500000;
+	}
+	
+h5	{
+	font:12px/20px courier, arial;
+	color:red;
+	font-weight: 600;
+	margin:15px 10px 10px 10px;
+	padding:5px;
+	}
+	
+h6	{
+	font:10px/14px verdana, arial;
+	text-align:center;
+	}
+	
+kbd	{
+	font: 12px/14px courier, arial;
+	color: 
+	margin: 5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+	}
+
+cpt {
+	font-family:12px/20px courier, arial;
+	color: black;
+	margin:15px 10px 10px 10px;
+	padding: 5px;
+	}
+	
+	
+p, ul, ol {
+	margin: 0 0 3 0;
+	padding: 5px;
+	list-style: none;
+	line-height: 200%;
+}
+
+p {
+	font:12px/20px verdana, arial, helvetica, sans-serif;
+	margin:0px 0px 2px 0px;
+	padding:6px;
+	}
+	
+code {
+	}
+	
+/* links 	*/
+
+a:link {
+	color: blue;
+	color: #0066CC;
+	font-weight: 550;
+	}      
+	
+a:visited {color:#833E60;}  /* visited link */
+a:hover {
+	color:#FF00FF;
+	font-weight: 600;
+	}  /* mouse over link */
+a:active {color:#0000FF;}  /* selected link */ 
+
+		
+/* list stuff */
+
+ul	{
+	font-family:verdana, arial, helvetica, sans-serif;
+	list-style-type:disc;
+	list-style-type: none;
+	padding: 0;
+	margin:0px 0p 2px 10px;
+	text-indent:0px;
+	font-size: .875em;
+	padding: 5px;
+	}
+
+
+ul.a {
+	list-style-type:circle;
+	text-indent:20px;
+	font-size: 1em;
+	padding: 5px;
+	}
+	
+ul.b {
+	list-style-type:square;
+	}
+
+li {
+	font-color:#660;
+	font-size:12px;
+	font-weight:200;
+	margin:0px 0px 0px 5px;
+	text-decoration:disc;
+	font-text-indent:0px;
+	line-height:125%;
+	padding:2 0px 5px 0px;
+	}
+	
+.content ul{
+		list-style-type:disc;
+		margin:5px 20px 5px 20px;
+	}
+
+/* content stuff */
+
+/* All the content boxes belong to the content class. */
+
+.content {
+	position:relative; /* Position is declared "relative" to gain control of stacking order (z-index). */
+	width:660px;
+	margin:10px 250px 10px 250px;
+	border:0px solid black;
+	background-color:white;
+	padding:10px;
+	text-align:left;
+	z-index:3;  	/* This allows the content to overlap the right menu in narrow windows in good browsers. */
+	}
+
+.Content>p {margin:0px;}
+.Content>p+p {text-indent:0px;}
+
+/* p.quote {color: #669999;  */
+
+p.quote {
+	color: #F8F6DF;
+	font-size: 1.em;
+	background-color: #849ACD;
+	padding: 10px;
+	margin: 20px;
+	}
+	
+#footer	{	
+	position:relative; /* Position is declared "relative" to gain control of stacking order (z-index). */
+	clear: both;
+	width:660px;
+	margin:10px 250px 10px 250px;
+	border:0px solid black;
+	background-color:white;
+	padding:10px;
+	text-align: center;
+	z-index:3;
+	clear: both;
+	}
+	
+/* centering images Note: this has to be under "content" */
+
+.centeredImage
+    {
+    text-align:center;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+    padding:0px;
+    }
+
+#navAlpha {
+	position:absolute;
+	margin-right:10px;
+	padding:5px;
+	width:210px;
+	top:20px;
+	left:25px;
+	border:0px dashed black;
+	background-color:#FFFACD;
+	z-index:2;
+	text-align:left;
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	}
+	
+#navBeta {
+	position:absolute;
+	width:200px;
+	top:20px;
+	right:80px;
+	left:960px;
+	border:0px dashed black;
+	background-color:#e7dce5;
+	z-index:1;
+	background-image:url('../../../images/dept_logos/admin.png');
+	background-size:100%;
+	background-repeat:no-repeat;
+	background-position: center top;
+/* this leaves space for the picture above */
+	padding-top:105px;
+	text-align:left; 
+	padding-left:10px; 
+	padding-right:10px; 
+	padding-bottom:10px;
+	}
+	
+
+/* for announcements and bulletins */	
+.minipanel	{
+	position: relative;
+	width:180px;
+	float:left;
+	border:1px dashed black;
+	background-color:#BCD9EA;
+	z-index:2;
+	text-align:left;
+	margin-top:5px;
+	margin-left:5px;
+	margin-bottom:5px;
+	padding:5px;
+	}	
+	
+body>#navBeta {width:200px;}	
+
+#betapic	{
+	text-align:center;
+	background-image:url('../../../images/dept_logos/it04.png');
+	padding:5px;
+	margin:5px
+	}
+	
+#badge	{
+	float:right;
+	width:200px;
+	height:220px;
+	background-color:#E2E4F1;
+	border:1px solid lightblue;
+	margin:2px;
+	padding:3px;
+	}
+	
+/* tables */
+
+table {
+	font:Verdana;
+	border:1px solid black;
+	border-collapse:collapse;
+	width:95%;
+	text-align:left;
+	font-size:1em;
+	margin-bottom:20px;
+	margin-top:5px;
+	vertical-align:top;
+	}
+	
+th {
+	font-size:1em;
+	background-color:#EEF3E2;
+	border-left:1px solid black;
+	border-bottom:1 px solid black;
+	}
+	
+tr {
+	font-size:1em;
+	background-color:#F0F8FF;
+	border-bottom:1px solid black;
+	border-left:1px solid black;
+	vertical-align:top;
+	}
+	
+td	{	
+	font-size:.85em;
+	padding:3px;
+	border-left:1px solid black;
+	vertical-align:top;
+	}

@@ -1,0 +1,126 @@
+<html>
+
+<!--
+This is a sample Simile Timeline, courtesy of Lifehacker.com.
+Visit the Timeline site for documentation and instructions on how to customize this page.
+http://simile.mit.edu/timeline/
+The timeline parameter is about line 62
+-->
+
+<head>
+  <title>Personal History</title>
+  
+  <script src="http://api.simile-widgets.org/timeline/2.3.1/timeline-api.js?bundle=true" type="text/javascript">
+  </script>
+  
+  <link rel="stylesheet" href="css/timeline.css" type="text/css">
+  <link rel="stylesheet" href="css/main.css" type="text/css">
+
+
+<!-- grabbed from other sample script: did not work
+
+   <script src="timeline-api.js?bundle=true" type="text/javascript"></script>
+   
+   <link rel="stylesheet" href="local_example.css" type="text/css">
+   
+   Nor this: (no "bundle")
+   
+    <script src="timeline-api.js" type="text/javascript"></script>
+
+ -->
+
+   </head><script type="text/javascript">
+
+    var tl;
+function onLoad() {
+  var eventSource = new Timeline.DefaultEventSource();
+  var bandInfos = [
+    Timeline.createBandInfo({
+        eventSource:    eventSource,
+        trackHeight:	1.2,
+        trackGap:		0.6,
+        date:           "Jan 31 1976 00:00:00 GMT",
+        width:          "75%", 
+        intervalUnit:   Timeline.DateTime.MONTH, 
+        intervalPixels: 100
+    }),
+    
+    
+    Timeline.createBandInfo({
+    	overview:		true,
+		showEventText:  false,
+        trackHeight:    0.75,
+        trackGap:       0.4,
+        eventSource:    eventSource,
+        date:           "Jan 31 1976 00:00:00 GMT",
+        width:          "25%", 
+        intervalUnit:   Timeline.DateTime.YEAR, 
+        intervalPixels: 300
+    })
+    
+  ];
+  bandInfos[1].syncWith = 0;
+  bandInfos[1].highlight = true;
+//  bandInfos[1].eventPainter.setLayout(bandInfos[0].eventPainter.getLayout());
+
+  tl = Timeline.create(document.getElementById("my-timeline"), bandInfos);
+  Timeline.loadXML("vandyks.xml", function(xml, url) { eventSource.loadXML(xml, url); });
+}
+
+var resizeTimerID = null;
+function onResize() {
+    if (resizeTimerID == null) {
+        resizeTimerID = window.setTimeout(function() {
+            resizeTimerID = null;
+            tl.layout();
+        }, 500);
+    }
+}
+</script>
+
+<style type="text/css">
+
+table {
+    font-size: 100%;
+}
+
+.timeline-default {
+    font-family: Trebuchet MS, Helvetica, Arial, sans serif;
+    font-size: 8pt;
+}
+</style>
+
+<h2>Bill's Personal History Timeline in Timeline 2017</h2>
+<h4><a href="http://people.duke.edu/~sjm14/timeline/eventmaker.html">XML Generator</a>
+<a href="http://simile.mit.edu/timeline/docs/timelines.html">More info</a> 
+<a href="show-pix/default.html">Show all pictures.</a>
+<a href="http://www.simile-widgets.org/wiki/Timeline-Eventsources">Good details on fields</a></h4>
+
+<body onload="onLoad();" onresize="onResize();" class="timeline-default">
+<div id="my-timeline" style="height: 500px; border: 1px solid #aaa"></div>
+
+	<div class="footloose">
+		<div id="badge">
+	<img border="0" src="icons/wheel.png" width="10" height="10"> cars<br />
+	<img border="0" src="icons/yellow.png" width="10" height="10"> cautionary Tales<br />
+	<img border="0" src="icons/red.png" width="10" height="10"> events (weddings, etc.)<br />
+	<img border="0" src="icons/purple.png" width="10" height="10"> family<br />
+	<img border="0" src="icons/blue.png" width="10" height="10"> friends<br />
+	<img border="0" src="icons/pink.png" width="10" height="10"> girls<br />
+	<img border="0" src="icons/gray.png" width="10" height="10"> hello goodbye<br />
+		</div>
+
+	<div id="lefty2">
+	<p><img="icons/blue.png">
+	<img border="0" src="icons/brown.png" width="10" height="10"> homes<br />
+	<img border="0" src="icons/maroon.png" width="10" height="10"> School<br />	
+	<img border="0" src="icons/teal.png" width="10" height="10"> trips<br />
+	<img border="0" src="icons/green.png" width="10" height="10"> work<br />
+	<img border="0" src="icons/black.png" width="10" height="10"> TCC<br />
+	</div>
+
+</div>
+
+</body>
+
+</html>

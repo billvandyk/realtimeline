@@ -1,0 +1,89 @@
+<html>
+<head>
+<title>Quick and Dirty Simile Timeline Event-XML-O-Matic</title>
+<style type="text/css">
+
+body {
+    font-family: Trebuchet MS, Helvetica, Arial, sans serif;
+    font-size: 8pt;
+}
+.label {
+	text-align:right
+}
+</style>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+function generateEventXML() {
+	if (document.getElementById("estart").value == '' )
+	{
+		alert('Event start date required!');
+	} else {
+		r = '<event \nstart="' + document.getElementById("estart").value + '"';
+	
+		if (document.getElementById("eend").value != '' )
+		{
+			r += ' \nend="'+ document.getElementById("eend").value + '"';
+		}
+		if (document.getElementById("elink").value != '' )
+		{
+			r += ' \nlink="'+ document.getElementById("elink").value + '"';
+		}
+		if (document.getElementById("eimg").value != '' )
+		{
+			r += ' \nimage="'+ document.getElementById("eimg").value + '"';
+		}
+		if (document.getElementById("etitle").value != '' )
+		{
+			r += ' \ntitle="'+ document.getElementById("etitle").value + '"';
+		}
+		r += '>\n';
+		r += document.getElementById("edesc").value;
+		r += '\n</event>';
+		document.forms[0].results.value = r;
+	}
+}
+-->
+</script>
+
+</head>
+<body>
+<h1>Lifehacker.com's Quick and Dirty <a href="http://simile.mit.edu/timeline/">Simile Timeline</a> Event-XML-O-Matic</h1>
+
+<p><em>Instructions for use:</em><br />
+Enter your event information in the fields below and click "Generate Event XML."  Then copy and paste the XML snippet into your Simile Timeline event data file.</p>
+<form id="eventdetails">
+<!-- ZOMG!!!  LIFEHACKER USED TABLES FOR LAYOUT!!  HOW COULD SHE, THAT INFIDEL!! -->
+
+<table>
+<tr>
+<td class="label"><label>Event Title:</label></td><td><input size="50" id="etitle" /></td>
+</tr>
+<tr>
+<td class="label"><label>Start *:</label></td><td><input  size="50" id="estart" value="Jan 31 2005 00:00:00 GMT" /></td>
+</tr>
+<tr>
+<td class="label"><label>End:</label></td><td><input size="50" id="eend" /></td>
+</tr>
+<tr>
+<td class="label"><label>Link:</label></td><td><input size="50" id="elink" /></td>
+</tr>
+<tr>
+<td class="label"><label>Image URL:</label></td><td><input size="50" id="eimg" /></td>
+</tr>
+<td class="label"><label>Description:</label></td><td><textarea rows="5" cols="50" id="edesc" ></textarea></td>
+</tr>
+</table>
+
+
+
+<a href="javascript:generateEventXML()">Generate Event XML >> </a><br /><br />
+
+<textarea name="results" id="results" rows="10" cols="80">
+</textarea>
+</form>
+
+<p><i>Notes and disclaimers:</i>  The operative words here are "Quick and Dirty."  This form does not check that your dates are in the right format, or encode any special characters that might not fly in XML.  XML generated here may throw Javascript Type errors or just plain not work - be sure to test your timeline event by event.  HTML added into event descriptions won't display, and quotation marks in titles also won't work.  Good luck and have a good day.</p>
+
+</body>
+</html>

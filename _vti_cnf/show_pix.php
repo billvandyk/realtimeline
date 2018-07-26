@@ -1,0 +1,22 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TW|16 Feb 2016 06:59:09 -0000
+vti_extenderversion:SR|12.0.0.0
+vti_author:SR|CH\\bvandyk
+vti_modifiedby:SR|CH\\bvandyk
+vti_timecreated:TR|14 Jan 2016 20:24:26 -0000
+vti_title:SR|Reference
+vti_timelastindexed:TW|08 Feb 2016 15:44:03 -0000
+vti_backlinkinfo:VX|timeline_dev/default.htm timeline/timeline-export.html
+vti_nexttolasttimemodified:TW|16 Feb 2016 06:59:09 -0000
+vti_cacheddtm:TX|08 Feb 2016 15:44:03 -0000
+vti_filesize:IR|1695
+vti_cachedtitle:SR|Reference
+vti_cachedbodystyle:SR|<body>
+vti_cachedlinkinfo:VX|Q|../css/chromehorse.css Q|../css/wide_tables.css H|http://www.chromehorse.net S|../images/2009/212w/feet.jpg
+vti_cachedsvcrellinks:VX|FQUS|css/chromehorse.css FQUS|css/wide_tables.css NHHS|http://www.chromehorse.net FSUS|images/2009/212w/feet.jpg
+vti_cachedneedsrewrite:BR|false
+vti_cachedhasbots:BR|false
+vti_cachedhastheme:BR|false
+vti_cachedhasborder:BR|false
+vti_metatags:VR|HTTP-EQUIV=Content-Type text/html;\\ charset=windows-1252 keywords bill\\ van\\ dyk
+vti_charset:SR|windows-1252

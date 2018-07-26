@@ -1,0 +1,199 @@
+<data>
+     
+<event 
+start="Jan 31 2012 00:00:00 GMT" 
+title="Bill starts learning xml."
+image="images/2000s/20060713-boston.png" 
+icon="icons/orange.png"
+color="blue">
+Bill creates a historical timeline to experiment with xml format and the java app, timeline.
+</event>
+
+<event 
+start="June 11 2012" 
+link="http://www.chromehorse.net" 
+image="images/1980s/198403a-recording-n15.png" 
+eventType="biography"
+icon="icons/orange.png"
+title="Glorious functionality with the dual scales!.">
+Bill Van Dyk expands his knowledgebase.  This seems to be terrific.
+You can even have multiple lines in the content area.  And it appears to use formatting of some kind.
+</event>
+
+<event 
+start="Jan 1 1990"
+end="Nov 1 2005"
+color="green"
+link="http://www.chromehorse.net" 
+eventType="car"
+image="images/1980s/198405a-n17a-12-lada-wash.png" 
+title="Owned a series of great vehicles including the 4Runner.">
+Which we drove for about 10 years, from Nova Scotia to Victoria.  Is this green?
+</event>
+ 
+<event 
+start="Jan 1 1989" 
+end="Dec 1 2012"
+link="www.chromehorse.net" 
+eventType="biography"
+image="images/1990s/199210-bill-erica-henderson-at-cabaret.png" 
+title="Worked at Christian Horizons. This should now be top?"
+icon="icons/teal.png">
+Learning how to do stuff like this.
+<h4>And what about this on a separate line?</h4>
+</event>
+
+<event 
+start="Jan 1 1969" 
+link="www.christian-horizons.org" 
+eventType="car"
+image="http://www.chconnect.org/admin/ch/images" 
+title="Organized and hosted the Conference on Christian Ministries to the Handicapped.">
+Held in...  where?  Other participating organizations included Bethesda Inc., Christian League for the Handicapped, Ontario Deaf Mission, Salem Christian Mental Health Association, Inc., Sunbeam Home.
+</event>
+
+<event 
+start="Jan 1 1967" 
+link="www.christian-horizons.org" 
+image="http://www.chconnect.org/admin/ch/images" 
+title="Camping program for developmentally challenged children launched">
+Details wanted.
+</event>
+
+<event 
+start="Jan 1 1971" 
+link="www.christian-horizons.org" 
+image="http://www.chconnect.org/admin/ch/images" 
+title="Name changed to CHRISTIAN HORIZONS FOR EXCEPTIONAL CHILDREN. ">
+ Search began for a full time director.
+</event>
+
+<event 
+start="Jan 1 1970" 
+link="www.christian-horizons.org" 
+image="http://www.chconnect.org/admin/ch/images" 
+title="Incorporated as O.C.F.E.C. ">
+(Ontario Christian Fellowship for Exceptional Children). Constitution and by laws drawn up and approved
+</event>
+
+<event 
+start="Jun 1 1972" 
+link="www.christian-horizons.org" 
+image="http://www.chconnect.org/admin/ch/images" 
+title="Adult Camping">
+Initiated camping ministry for developmentally challenged adults
+</event>
+
+<event 
+start="Jun 1 1973" 
+link="www.christian-horizons.org" 
+image="http://www.chconnect.org/admin/ch/images" 
+title="Renee Kreeft became first full time staff member">
+First full-time staff member.
+</event>
+
+<event  
+start= "1982-08-02"
+end= "1982-08-05"
+title= "ICS Conference, Rinke, Sonya."
+description= "Was this the year I played in the band?"
+image= "images/1980s/198208a-n01-ics-conference-05-helen-van.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon= "icons/dark-red-circle.png"        
+color= "blue"
+textcolor= "green">
+Notes here
+</event>
+
+<event  
+start= "1977-03-01"
+end= "1977-08-31"
+title= "In Calgary, working for UGG."
+description= "Few memories of this time period, other than Edmonton trip!  Strange interregum."
+image= "images/1970s/197707a-n16-calgary-cars-at-sjane\'s.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon= "icons/gray-circle.png"
+color= "red"
+textcolor= "red">
+Stayed with Sjane Heerema, then had an apartment on hill over-looking downtown.
+</event>
+
+       	<event  
+		start= "2007-07-02"
+        end= "2007-08-09"
+        title= "Trip to BC with Al and Ann."
+        description= "Ending on Vancouver Island at Karin\'s birthday party near Comox."
+        image= "images/2000s/20070721-bc-vacation.png"
+        link= "http://www.chromehorse.net/timeline/details"
+        icon= "icons/dark-red-circle.png"        
+        color= "red"
+        textcolor= "green">
+		There was a bizarre incident with one of Karin's close friends-- an inappropriate kiss or something.
+		</event>
+        
+       	<event  
+		start= "2009-03-12"
+        end= "2009-03-15"
+        title= "Trip to Washington DC."
+        description= "Ending on Vancouver Island at Karin\'s birthday party near Comox."
+        image= "images/2000s/20090312-washington.png"
+        link= "http://www.chromehorse.net/timeline/details"
+        icon= "icons/dark-red-circle.png"        
+        color= "blue"
+        textcolor= "green">
+		Notes here
+		</event>
+		
+<event  
+start= "1994"
+end= "1999-07-01"
+title= "14 Murray Hill Court, Kitchener"
+description= "Moved there from Chatham, until move to 11 Ramblewood Way 1999."
+image= "images/1990s/14murrayhill.png"
+link= "details/"
+tapeImage= "icons/blue_stripes.png"
+tapeRepeat= "repeat-x"
+icon= "icons/dark-red-circle.png"
+caption= "This is the event's caption attribute."
+classname= "hot_event">
+Notes here
+</event>
+
+
+<event  
+start= "1956-01-01"
+title= "Bill Van Dyk born."
+description= "Bill Van Dyk, Canadian Fool, 1956-2012"
+image= "images/1960s/1957albert-eddy-billy.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon="icons/green-circle.png">
+Notes here
+</event>
+
+<event  
+start= "1963-10-12"
+end= "1963-12-10"
+title= "Billy goes to Holland"
+description= "With mom.  Uncle William buys me a train set. We were there for Dec 6 Xmas in Holland"
+image= "images/1960s/196411-holland-7.png"
+link= "http://www.chromehorse.net/timeline/details"
+color= "green"
+icon= "icons/green-circle.png">
+Notes here
+</event>
+
+<event  
+start= "1970-09-01"
+end= "1971-06-30"
+title= "Grade 9."
+description= "Home room teacher probably James Zyl."
+image= "images/1970s/1970-grace-prinzen.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon= "icons/dark-red-circle.png"
+color= "red"
+textcolor= "green">
+Notes here
+</event>
+
+
+</data>

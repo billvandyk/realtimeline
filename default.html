@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+
+<!-- #BeginTemplate "../_templates/master.dwt" -->
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Chromehorse</title>
+<!-- #EndEditable -->
+<meta name="keywords" content="chromehorse, bill van dyk, commentary, opinions, reflections">
+<meta name="description" content="The Horror of Ambivalence">
+<link rel="stylesheet" type="text/css" href="../dev/Free_EWD_Template/styles/style3.css">
+</head>
+
+<body>
+
+<!-- Begin Container -->
+<div id="container">
+	<!-- Begin Masthead -->
+	<div id="masthead">
+		<h1><a href="#">Chromehorse</a></h1>
+		<h3>by Bill Van Dyk</h3>
+	</div>
+	<!-- End Masthead -->
+	<!-- Begin Navigation -->
+	<div id="navigation">
+		<ul>
+			<li><a href="http://www.chromehorse.net/">Home</a></li>
+			<li><a href="../history/default.htm">About Me</a></li>
+			<li><a href="../rants/menus/by_years/2015_index.asp">2015</a></li>
+			<li><a href="../movies/">Movie Reviews</a></li>
+			<li><a href="../dev/Free_EWD_Template/links/links.htm">Links</a></li>
+			<li><a href="../rants/menus/topical_menus">Topical Index</a></li>
+		</ul>
+	</div>
+	<!-- End Navigation -->
+	<!-- Begin content_container -->
+	<div id="content_container">
+		<!-- Begin Left Column -->
+		<div id="column_left">
+			<!-- #BeginEditable "content" -->
+			<h2>Personal History Timeline</h2>
+			<p><a href="../timeglider/notes.html">Notes</a> (on updating 
+			Timeglider and other stuff).</p>
+			<p><a href="timeline.html">The Timeline</a> [must always have
+			<strong>current</strong> history.xml!]</p>
+			<p><a href="timeline-export.html">The Timeline Export Test</a> 
+			(using history-export.xml).</p>
+			<p><a href="../timeglider/default.html">Timeglider</a>&nbsp; Notes 
+			on the json file!</p>
+			<p><a href="db">The Database</a> (update this first: export is not 
+			working yet so just copy the same entry to the history.xml file for 
+			now).</p>
+			<p>Using this online version of java script app:</p>
+			<p>&nbsp;<kbd>&lt;script 
+			src="http://api.simile-widgets.org/timeline/2.3.1/timeline-api.js?bundle=true" 
+			type="text/javascript"&gt;</kbd><br />
+			</p>
+			<p><a href="create_xml.html">Create XML Script </a>for new entry.&nbsp; 
+			(Copy the resulting script into the history.xml file).</p>
+			<p>Goal: to have the history in a mySQL database with an export 
+			function to recreate the xml or -- more likely -- json file as needed.</p>
+			<p>Until then: an online edit?&nbsp; </p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+			<!-- #EndEditable --></div>
+		<!-- End Left Column -->
+		<!-- Begin Right Column -->
+		<div id="column_right">
+			<!-- #BeginEditable "sidebar" -->
+			<h3>Diversions</h3>
+			<p>All images:&nbsp; yyyy-mm [-dd]-name-name</p>
+			<p><a href="db">Database</a></p>
+			<p><a href="database_version.php">database version</a> (not 
+			configured yet)&nbsp; From
+			<a href="http://simile-widgets.org/wiki/Timeline_LoadEventsDynamically">
+			this page.</a></p>
+			<p><a href="../timeglider/default.html">Timeglider Project</a></p>
+			<p>On
+			<a href="https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/">
+			JSON data</a> and possible uses.</p>
+			<p><a href="http://xmlgrid.net/jsonXml.html">JSON to XML</a> 
+			converter</p>
+			<p>Interesting Alternative Application:
+			<a href="https://timeglider.com/">Timeglider</a>.&nbsp; Timeglider 
+			can import CSV files!</p>
+			<p><a href="json_export.php">JSON Export Script </a>(not configured 
+			yet)</p>
+			<p>To get JSON to run on IIS, you must edit the web.config file for 
+			that website and
+			<a href="https://stackoverflow.com/questions/19516829/allow-loading-of-json-files-in-visual-studio-express-2013-for-web">
+			add the following:</a></p>
+			<pre class="lang-xml prettyprint prettyprinted" style=""><code><span class="pln">  </span><span class="tag">&lt;system.webServer&gt;</span><span class="pln">
+    </span><span class="tag">&lt;staticContent&gt;</span><span class="pln">
+      </span><span class="tag">&lt;mimeMap</span><span class="pln"> </span><span class="atn">fileExtension</span><span class="pun">=</span><span class="atv">".json"</span><span class="pln"> </span><span class="atn">mimeType</span><span class="pun">=</span><span class="atv">"application/json"</span><span class="pln"> </span><span class="tag">/&gt;</span><span class="pln">
+    </span><span class="tag">&lt;/staticContent&gt;</span><span class="pln">
+  </span><span class="tag">&lt;/system.webServer&gt;</span></code></pre>
+			<p>&nbsp;</p>
+			<h6>[2017-08-02]</h6>
+			<!-- #EndEditable --></div>
+		<!-- End Right Column -->
+		<!-- Begin Footer -->
+		<div id="footer">
+			<div id="copyright">
+				<p>Copyright © 2015 Bill Van Dyk All Rights Reserved</p>
+			</div>
+			<p>
+			<a href="../index.html">Home</a> | 
+			<a href="../dev/Free_EWD_Template/about_me/about_me.htm">About Me</a> 
+			| 
+			<a href="../dev/Free_EWD_Template/resume/resume.htm">Résumé</a> |
+			<a href="../dev/Free_EWD_Template/photo_gallery/photo_gallery.htm">
+			Photo Gallery</a> |
+			<a href="../dev/Free_EWD_Template/links/links.htm">Links</a> | 
+			<a href="../dev/Free_EWD_Template/contact/contact.htm">Contact</a></p>
+		</div>
+		<!-- End Footer --></div>
+	<!-- End content_container --></div>
+<!-- End Container -->
+
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

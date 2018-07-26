@@ -1,0 +1,5395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- this is a comment in xml -->
+<!-- this is from the database -->
+<data>
+<event
+start="1955-01-01"
+end="1955-12-31"
+title="The Header in the Timeline. "
+description="Description. "
+image="images/1960s/thumbs/1960-hike.png"
+link="images/1960s/fullsized/1960-hike.png"
+color=" brown"
+textcolor=" brown"
+tapeImage="icons/blue_stripes.png"
+tapeRepeat="repeat-x"
+caption="What does this do? Not much."
+icon="icons/brown.png"
+classname="hot_event" >
+(!) = reliable date! This is the comment that shows on the timeline. This is a template for event entries on the timeline including classname. Use it! Or lose it.
+</event>
+
+<event
+start="1955-02-02"
+end="1955-12-31"
+title="Must be 50 characters or less. This is 43."
+description="Description."
+image="images/1960s/thumbs/1960-hike.png"
+link="images/1960s/fullsized/1960-hike.png"
+color=" brown"
+textcolor=" brown"
+tapeImage="icons/blue_stripes.png"
+tapeRepeat=" repeat-"
+caption=" "
+icon="icons/brown.png"
+classname="hot_event" >
+(!) =reliable date This is the comment that shows on the timeline. This is a template for event entries on the timeline including classname. Use it! Please. I think the date works now. Yes, it does.
+</event>
+
+<event
+start="1956-09-19"
+end="1969-12-31"
+title="Bill Van Dyk born."
+description="Bill Van Dyk."
+image="images/1950s/thumbs/1956-10-bill-baby-picture300.png"
+link="images/1950s/fullsized/1956-10-bill-baby-picture.png"
+color=" brown"
+textcolor=" brown"
+tapeImage="icons/blue_stripes.png"
+tapeRepeat="repeat-x"
+caption="Billy Van Dyk, Age: a few months."
+icon="icons/brown.png"
+classname="hot_event" >
+In Niagara Falls at NF General Hospital, a building which later became a Salvation Army home. Which was a hospital at the time I was born. Eight of us born within 10 years.
+</event>
+
+<event
+start="1961-09-01"
+end="1962-06-30"
+title="Kindergarten."
+description="Bill Van Dyk, Canadian Fool, 1956-2012"
+image="images/1960s/thumbs/1960-05-Mom-Eddy-and-Billy.png"
+link="images/1960s/fullsized/1960-05-Mom-Eddy-and-Billy.png"
+color=" maroon"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Billy in Kindergarten"
+icon="icons/dark-green-circle.png"
+classname=" " >
+I have no idea who my teacher was. It was St. Davids Public School, and I believe I was able to walk to school by myself every day. We had nap time in the afternoons, I think. It was an older lady, I believe. I swiped some play-doh and then brought it to school for show and tell. I remember kids whispering that I stole it but the kind teacher would have none of it. There was a nap time in the afternoon, on our blankets. I remember a nice, large classroom, like a gym.
+</event>
+
+<event
+start="1962-09-01"
+end="1963-06-30"
+title="Grade 1."
+description="Bill Van Dyk"
+image="images/1960s/thumbs/1961-09-10-bill_gr1.png"
+link="images/1960s/fullsized/1961-09-10-bill_gr1.png"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Bill in Grade 1, Mrs. Fast."
+icon="icons/maroon.png"
+classname=" " >
+My teacher was Mrs. Fast. All I remember is that she was mean. I think she had glasses and short hair. We were in a classroom on the west side of the building-- I do remember that. Interesting: almost no memories at all of Grade 1, or Kindergarten, for that matter. But I do feel like I have notable memories of Grade 2. That big a difference? One year?
+</event>
+
+<event
+start="1963-07-01"
+end="1969-12-31"
+title="Harrys 49 Ford."
+description="Bill Van Dyk"
+image="images/1960s/thumbs/1963-Coby-and-Billy-playing-in-Harrys-old-49Ford.png"
+link="images/1960s/fullsized/1963-Coby-and-Billy-playing-in-Harrys-old-49Ford.png"
+color=" blue"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Harrys Old Car"
+icon="icons/pink.png"
+classname=" " >
+This was the car, I believe, Harry smashed into the bridge beside the bank oneday. Or was that a 39 Plymouth? Double check. So. So. It was definitely the 39 Plymouth. Photos.
+</event>
+
+<event
+start="1963-09-01"
+end="1964-06-30"
+title="Grade 2."
+description="Bill Van Dyk"
+image="images/1960s/thumbs/1962-09-10-bill-grade2.png"
+link="images/1960s/fullsized/1962-09-10-bill-grade2.png"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/maroon.png"
+classname=" " >
+My teacher was Mrs. Waytook. I remember winning a spelling contest. The prize was two 45 rpm records: Tubby the Tuba and Little Goldie Goldfish.
+</event>
+
+<event
+start="1964-09-01"
+end="1965-06-30"
+title="Grade 3."
+description="Bill Van Dyk"
+image="images/1960s/thumbs/1965-06-pendergast-horse-and-wagon-1.png"
+link="images/1960s/fullsized/1965-06-pendergast-horse-and-wagon-1.png"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Grade 3 at Calvin Christian School in St. Catherines."
+icon="icons/maroon.png"
+classname=" " >
+I was sent to Calvin Christian School in St. Catharines. My teacher was Mrs. Dykstra.
+</event>
+
+<event
+start="1965-11-12"
+end="1965-12-10"
+title="Billy goes to Holland"
+description="With mom. Uncle William buys me a train set."
+image="images/1960s/thumbs/1964-11-holland-7.png"
+link="images/1960s/fullsized/1964-11-holland-03-with-willy.png"
+color=" green"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Billy goes to Holland."
+icon="icons/green-circle.png"
+classname=" " >
+We were there for Dec 6 Xmas in Holland. I remember having some homework assigned from, I think, Mr. Westendorp, which would make it 1964 and I was seven. I look about seven in the pictures.
+</event>
+
+<event
+start="1965-09-01"
+end="1966-06-30"
+title="Grade 4."
+description="Bill Van Dyk"
+image="images/1960s/thumbs/1966-kasper-gus-bill-brian-penner-checkers-dad-in-door.png"
+link="images/1960s/fullsized/1966-06-kasper-gus-bill-brian.png"
+color=" blue"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" School."
+icon="icons/blue.png"
+classname=" " >
+My teacher was probably Mr. Westendorp... Really cant remember. Picture is Gus, Brian Penner, me, Dad in the door way.
+</event>
+
+<event
+start="1966-09-01"
+end="1967-06-30"
+title="Grade 5."
+description="Grade 5."
+image="images/1960s/thumbs/1966-bill-grade-5.png"
+link="images/1960s/fullsized/1966-bill-grade-5.png"
+color=" green"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Bill in Grade 5."
+icon="icons/maroon.png"
+classname=" " >
+Teacher: Henry Westendorp. My best friends were John Suk, John Vandermaarl, Peter Vanderperk, Bill Keift, Wilbur Something. Outside of school, my best friend was Johnny Wolfe, who always called me "Billy Balls". We camped with his family for several years.
+</event>
+
+<event
+start="1967-07-01"
+end="1967-07-01"
+title="The Cake."
+description="Centenniel event."
+image="images/1960s/thumbs/1967-07-01-bill_cake.png"
+link="images/1960s/fullsized/1967-07-01-bill_cake.png"
+color=" green"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="The Cake"
+icon="icons/blue.png"
+classname=" " >
+Mom and Mrs. Korten, I believe, put it together using cardboard, old bicycle rims, and an upside down bucket at the top. The parade assembled near the canning factory and I was told to wait for someone to put me into a spot in the parade. As more and more of the parade left, though, I panicked and just charged out and joined it at the first opening. Photo made the newspaper-- I cant remember which one. St. Catharines, I think.
+</event>
+
+<event
+start="1967-07-01"
+end="1967-07-30"
+title="Johnny Wolfe. Good friend of mine from the 1960s."
+description="best friend when I was 10."
+image="images/1960s/thumbs/1966-johnny-wolfe-cu.png"
+link="images/1960s/fullsized/1966-07-bill-johnny-ethel-friend-killbear.png"
+color=" green"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+Johnny was a very funny guy-- we both liked jokes, and fishing, and exploring. There was a house near his house where kids could go into the basement and see magazines and smoke. Very, very strange now that I think about it. I know Johnny was always somewhat reluctant to go there, and not reluctant. Ambivalent about it, I guess.
+</event>
+
+<event
+start="1967-09-01"
+end="1968-06-30"
+title="Grade 6."
+description="Grade 6."
+image="images/1960s/thumbs/1967-bill-al-ed-in-chair.png"
+link="images/1960s/fullsized/1967-bill-al-ed-in-chair.png"
+color=" green"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Gerzinus Hoekstra"
+icon="icons/maroon.png"
+classname=" " >
+Teacher: Gerzinus Hoekstra. He was certainly unconventional and a little crazy. He taught us some spirituals and generally had a lot of music. He also showed us the infamous live educational TV measurements series which included an adolescent girl in a white bathing suit immersing herself into a barrel of water to measure her volume. When she came out, her suit had clearly become transparent.
+</event>
+
+<event
+start="1968-09-01"
+end="1969-06-30"
+title="Grade 7."
+description="Grade 7."
+image="images/1960s/thumbs/1968-monkey-bars-2.png"
+link="images/1960s/fullsized/1968--monkey-bars-2.png"
+color=" green"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Bill in Grade 7."
+icon="icons/blue.png"
+classname=" " >
+Teacher: Mr. Elzinga, who was interesting, but a bit mean. He used to pinch shoulders if someone was giving him trouble. Probably brother of Win Elzinga in Chatham. Otherwise, rather blank memories of this year. I remember some technical discussions of batteries-- I think I or someone asked if a small 9 volt battery-- since it had the required "voltage", couldnt start a car (some cars had 6 volt batteries at that time). I think he actually gave a pretty good explanation. (Enough voltage but not capacity).
+</event>
+
+<event
+start="1968-12-19"
+end="1995-12-30"
+title="Michael Van Dyk born."
+description="Michael Van Dyk."
+image="images/1960s/thumbs/1969-02-Michael-Van-Dyke-Laura-Dommasch300.png"
+link="images/1960s/fullsized/1969-02-Michael-Van-Dyke-Laura-Dommasch.png"
+color=" green"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/maroon.png"
+classname=" " >
+Picture obviously a few years later. I did babysit occasionally for Harry and Karen.
+</event>
+
+<event
+start="1969-02-15"
+end="2016-03-08"
+title="Laura Dommasch Born."
+description="Not confirmed."
+image="images/1970s/thumbs/1972--laura-grant-michael-pool-table.png"
+link="images/1970s/fullsized/1972--laura-grant-michael-pool-table.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+But she looks about a year older than Grant in pix-- not two years. Born February 15, probably 1969. She looks about a year older than Grant in pix-- not two years.
+</event>
+
+<event
+start="1969-09-01"
+end="1970-06-30"
+title="Grade 8."
+description="Grade 8."
+image="images/1970s/thumbs/1970-00-bill-grade-8-formal.png"
+link="images/1970s/fullsized/1970-00-bill-grade-8-formal.png"
+color=" green"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Grade 8."
+icon="icons/maroon.png"
+classname=" " >
+Teacher: Norman Van Dyke. This was the year I conducted a mini-skirt contest, measuring to see how far above the knee the skirt was, on girls who volunteered for the contest. Several girls-- including Joany, and Ria Brouwer-- kept going to the bathroom to raise her skirt to see if she could do better. Norman Van Dyke was there watching and did nothing to discourage me.
+</event>
+
+<event
+start="1969-10-01"
+end="1969-11-01"
+title="CCS Soccer championship."
+description="Calvin Christian wins elementary soccer championship.."
+image="images/1960s/thumbs/1969-11-soccer-team-ccs-69-70.png"
+link="images/1960s/fullsized/1969-11-soccer-team-ccs-69-70.png"
+color=" green"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="CCS Soccer Championship"
+icon="icons/maroon.png"
+classname=" school" >
+Ernie Pierick was the coach. Did Stuart, Mike Vandermeer really come that year? The photo certainly doesnt look like high school.
+</event>
+
+<event
+start="1970-01-25"
+end="1970-01-25"
+title="Grant Dommasch Born."
+description="This is the right date. Therefore photos..."
+image="images/1970s/thumbs/1972-grant-uncle-ed.png"
+link="images/1970s/fullsized/1972-van-dyks.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption="Grant Dommasch"
+icon="icons/pink.png"
+classname=" " >
+(!) Grant was born January 25, 1970. So he is now almost 50 years old.
+</event>
+
+<event
+start="1970-06-01"
+end="1970-06-01"
+title="Grace Prinzen."
+description="School party at Sherkston Beach."
+image="images/1970s/thumbs/1970-grace-prinzen.png"
+link="images/1970s/fullsized/1970-grace-prinzen.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+At the fall school party at Sherkston Beach, Grace and I went for a walk into the dunes, as several class-mates were also doing (including Martin Bakker and Coreen Langendoen). I asked, "do you wanna neck", and she said "sure". So we did. She would have been a year younger than me at the time, so she was about 12, and I was 13.
+</event>
+
+<event
+start="1970-07-01"
+end="1970-07-01"
+title="Trip to Toronto."
+description="Trip to Toronto stayed at Pete and Sheryls."
+image="images/1970s/thumbs/1970-07-n07-toronto-trip-n07.png"
+link="images/1970s/fullsized/1970-07-n07-toronto-trip-n07.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+(!) Same roll of film shows mom and dads 25th anniversary.
+</event>
+
+<event
+start="1970-09-01"
+end="1971-06-30"
+title="Grade 9."
+description="Home room teacher probably James Zyl."
+image="images/1970s/thumbs/1970-09-bill-grade-9.png"
+link="images/1970s/fullsized/1970-09-bill-grade-9.png"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Bill in Grade 9"
+icon="icons/dark-green-circle.png"
+classname=" " >
+Took the bus, which circled around Niagara-on-the-Lake. Irene and Margaret Vanderlaan were also still in the Christian School at that point. I remember Helen Vanderwal on the bus, Hilda De Weerd, Bert Prinzen. The battle to get the seats in the back of the bus.
+</event>
+
+<event
+start="1971-06-01"
+end="1974-06-01"
+title="Jackie Veenhof"
+description="One grade below me, ran 12.2 100 meters."
+image="images/1970s/thumbs/1970-05-jackie-100m.png"
+link="images/1970s/fullsized/1970-05-jackie-100m.png"
+color=" red"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption="Jackie Veenhof"
+icon="icons/dark-red-circle.png"
+classname=" " >
+Jackie wanted to get married right after high school: her parents didnt feel that a college education would be of any use to a girl any way. She probably could have gotten an athletic scholarship somewhere: that was a very, very competitive 100 meters.
+</event>
+
+<event
+start="1971-10-01"
+end="1971-10-01"
+title="Pat Vandermaas."
+description="Pat Vandermaas."
+image="images/1970s/thumbs/1971-09-pat-vandermaas-yearbook.png"
+link="images/1970s/fullsized/1971-09-pat-vandermaas-yearbook.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption="Pat Vandermaas"
+icon="icons/yellow.png"
+classname=" " >
+Must have been September or October 1971. I must have been in grade 10, and Pat was in grade 9. This picture is from yearbook, so would be close to that date, especially since her hair is quite short. I remember thinking it was quite sexy-- I liked her neck and her ear-lobes. She was wearing a purple turtle neck sweater and let me slide my hand up under it.
+</event>
+
+<event
+start="1972-01-01"
+end="1972-02-20"
+title="Ice Storm at Beacon."
+description="One grade below me, ran 12.2 100 meters."
+image="images/1970s/thumbs/1972-01-ice-storm-beacon.png"
+link="images/1970s/fullsized/1972-01-ice-storm-beacon.png"
+color=" red"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption="Beacon Ice Storm"
+icon="icons/dark-red-circle.png"
+classname=" " >
+(+- month) This was the year we got a fantastic freezing rain storm that coated everything with ice, including the roads. You could skate on the fields. There was a large pond behind the school people went sliding on. There was also a small hockey rink in the same area. Photo from yearbook, so had to be that winter. There was a major storm February 19th in Montreal-- possibly same storm.
+</event>
+
+<event
+start="1972-06-01"
+end="1973-03-01"
+title="Laidlaw Transport"
+description=" "
+image="images/1970s/thumbs/1973-02-65-chevy-impala-laidlaw.png"
+link="images/1970s/fullsized/1973-02-65-chevy-impala-laidlaw.png"
+color=" "
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-green-circle.png"
+classname=" " >
+Got a job there through Harvey, a drunk, who lived upstairs with Gloria and little Suzie who was Lauras age. Pretty good job-- paid better than Peter Ton, the farmer I worked for. Had to use some acids and other deadly chemicals to clean the trailers. The drivers washed their own cabs. Boss was Hubert Vander something. I think. Not sure about dates. I generally worked Friday nights until very, very late, usually by myself. I used a yard tractor to pick up trailers and haul them into the garage and clean them.
+</event>
+
+<event
+start="1972-10-15"
+end="1972-10-15"
+title="Beacon soccer."
+description="At Hamilton "
+image="images/1970s/thumbs/1973-11-soccer-tournament-01.png"
+link="images/1970s/fullsized/1973-11-soccer-tournament-01.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+At Hamilton -- or was that merely a playoff (happened during Canada-U.S.S.R. Hockey Summit. Yes it was-- from Piericks comments in yearbook, this was a losing year, first time in the Christian High School league.
+</event>
+
+<event
+start="1972-10-24"
+end="1972-10-24"
+title="Lara Schat born."
+description="Confirmed."
+image="images/1970s/thumbs/1974-12-fschat-kids-05-76-300.png"
+link="images/1970s/fullsized/1974-12-fschat-kids-05-76.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/yellow.png"
+classname=" " >
+(!) Birthdate. So she was 15 in 1987, 16 in 1988. Noted.
+</event>
+
+<event
+start="1972-12-01"
+end="1972-12-01"
+title="Christine Van Dyk (Peter and Sheryl) born."
+description="Confirmed."
+image="images/1970s/thumbs/1973-74-n16-christine(born1972).png"
+link="images/1970s/fullsized/1973-74-n16-christine.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+Pete and Sheryl were living in a little house on Warner (confirmed) Road. I used to babysit for them sometimes, and Pete actually let me use his car a couple of times for dates.
+</event>
+
+<event
+start="1973-02-01"
+end="1973-12-31"
+title="1963 Chevy Impala."
+description="Pretty sure. Still had Suzuki bike? I guess so."
+image="images/1970s/thumbs/1973-02-65-chevy-impala_cu.png"
+link="images/1970s/fullsized/1973-02-1965-chevy-impala.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+Very nice car but the engine was burning oil by the time we got it and it soon began to use a quart of oil a week, then almost a quart a day. We bought the cheapest oil for it, by the gallon. I am pretty outraged today that Hank tried to convince mom and dad that it was my fault, that I must have been driving too aggressively. I think mom believed it. Also had Suzuki bike at the same time, as evident in picture. So when did Bill Kamps and I ride it to Stratford?
+</event>
+
+<event
+start="1973-03-01"
+end="1973-03-15"
+title="Variety Night - Beacon."
+description="Variety Night at Beacon including play."
+image="images/1970s/thumbs/1973-03-variety-night-play-bill.png"
+link="images/1970s/fullsized/1973-03-variety-night-play-bill.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" Hello"
+icon="icons/blue.png"
+classname=" " >
+(+-month) I was in some kind of play about a loud-mouthed kid who would mock everything driving friends and family crazy. Would love to find it now. From Yearbook.
+</event>
+
+<event
+start="1973-06-01"
+end="1973-12-31"
+title="House sold - St. Davids."
+description="Mom and Dad sell the big house and move to Warner Road."
+image="images/1970s/thumbs/1973-06-n12-house-for-sale.png"
+link="images/1970s/fullsized/1973-06-n12-house-for-sale.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+I dont think they did very well on the house-- they may have sold it, in 1973, for about as much as they paid for it in 1961. So note that the picture above, of the 1963 Impala (and others in that strip) are probably actually from late 1973 or early 1974.
+</event>
+
+<event
+start="1973-06-01"
+end="1973-06-01"
+title="Beacon Staff 1973-74."
+description="Beacon Staff 1973-74."
+image="images/1970s/thumbs/1973-09-01-beacon-staff.png"
+link="images/1970s/fullsized/1973-09-01-beacon-staff.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+Note Lambert Zuidevaart, who taught music, and took us to the Dylan concert. This is the only year he is listed in staff pages of the yearbook.
+</event>
+
+<event
+start="1973-10-01"
+end="1973-11-30"
+title="Beacon wins second soccer championship."
+description="Probably at Eden Christian in Niagara-on-the-Lake."
+image="images/1970s/thumbs/1973-11-soccer-triumph.png"
+link="images/1970s/fullsized/1973-10-soccer0012.png"
+color=" red"
+textcolor=" maroon"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+At Eden in Niagara on the Lake. Very tight final game. This was where I had my breakaway, splitting the defense, and then shooting it over top of the middle of the net. I think we won first championship at Niagara Christian College. Hard to figure. Check yearbook.
+</event>
+
+<event
+start="1973-06-21"
+end="1973-06-21"
+title="(!) Jennifer Dommasch (Juhke) born."
+description="Confirmed."
+image="images/1970s/thumbs/1974-Jennifer-having-lunch.png"
+link="images/1970s/fullsized/1974-00-Michael-Laura-Grant-Jennifer.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+Thats why I have very few, if any, pictures of her. I was gone to Chicago when she was a year old.
+</event>
+
+<event
+start="1973-09-01"
+end="1973-09-01"
+title="(!) Meine is at Trinity in Chicago."
+description="Confirmed."
+image="images/1970s/thumbs/1973-00-00-meine-visser-at-tcc.png"
+link="images/1970s/fullsized/1973-00-00-meine-visser-at-tcc.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+So he went to Simon Fraser in 1974-75, then back to Trinity in 1975-76?
+</event>
+
+<event
+start="1974-01-10"
+end="1974-01-10"
+title="Saw Bob Dylan and the Band, Maple Leaf Gardens."
+description="I think someone gave her advice."
+image="images/1970s/thumbs/1974-01-10-dylan.png"
+link="http://www.chromehorse.net/rants/rants2006/20061103_dylan.htm"
+color=" orange"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+(!) Exact date: Toronto, with Lambert Zuidevaart. Confirmed that it was Zuidevaart - yearbook teacher pix. Exact date available from web site with list of Dylan concerts. Note: the HTML link works! This will be very useful.
+</event>
+
+<event
+start="1974-05-01"
+end="1974-05-01"
+title="Jackie Veenhof runs 100 meters in 12.2 seconds."
+description="Jackie Veenhof runs 100 meters in 12.2 seconds."
+image="images/1970s/thumbs/1974-05-00-jackie-100m.png"
+link="images/1970s/fullsized/1974-05-00-jackie-100m.png"
+color=" orange"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+Jackie Veenhof runs 100 meters in 12.2 seconds. One of my best pictures ever. Is this a confirmation from the yearbook? Probably.
+</event>
+
+<event
+start="1974-06-30"
+end="1974-06-30"
+title="Graduated High School."
+description=" "
+image="images/1970s/thumbs/1974-06-bills-graduation.png"
+link="images/1970s/fullsized/1974-06-bills-graduation.png"
+color=" orange"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/red.png"
+classname=" " >
+I think Martin Bakker was valedictorian. I had no plans for college at this time. This picture was taken by Ernie Pierick, who, in a generous gesture, decided to make sure there was a picture of the photographer.
+</event>
+
+<event
+start="1974-06-20"
+end="1974-06-20"
+title="Durham Graduation."
+description="Helen graduates form Durham Christian High."
+image="images/1970s/thumbs/1974-06-20-graduation-durham-christian.png"
+link="images/1970s/fullsized/1974-06-20-graduation-durham-christian.png"
+color=" orange"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+Helens graduating class from Durham Christian High.
+</event>
+
+<event
+start="1974-09-01"
+end="1975-05-15"
+title="Living in Chicago"
+description=" "
+image="images/1970s/thumbs/1975-06b-n08-summer-75-apt-meal.png"
+link="images/1970s/fullsized/1975-06b-n08-summer-75-apt-meal.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption="TCC First Year"
+icon="icons/black.png"
+classname=" " >
+Attending Trinity Christian College. First impression: at a campfire on the "the hill" I was trying hard to be funny, joking about "flanged niblicks" from Canada. I remember Terry Brown also clowning around a bit. Roomed with Gary Teune at first, until he bombed out, and then Ray Wieringa, in Vandervelde Hall.
+</event>
+
+<event
+start="1974-11-10"
+end="1974-11-11"
+title="Alice Vanderhoek."
+description=" "
+image="images/1970s/thumbs/1973-00-00-alice-vanderhoek.png"
+link="images/1970s/fullsized/1973-00-00-alice-vanderhoek.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-green-circle.png"
+classname=" " >
+Alice Vanderhoek makes a play. "I would gone a lot further if youd been nice to me."
+</event>
+
+<event
+start="1975-05-01"
+end="1975-08-31"
+title="Lived and worked on campus."
+description=" hello"
+image="images/1970s/thumbs/1975-06b-n15-neg-bill-tractor.png"
+link="images/1970s/fullsized/1975-06b-n15-neg-bill-tractor.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/green.png"
+classname=" " >
+Spent summer working on campus, cutting grass and watching Terry Boerema sunbathe in a tiny bikini at the faculty apartments. Lived in John and Carla Bruinsmas apartment, with Rinke and Jim Ethridge, both of whom quit, homesick, before the end of the summer. At some point, I was going to drive up to Ontario with Pam Koster, and changed my mind at the last minute, which really pissed her off. Then I changed my mind again and drove up anyway, by myself, I believe. I have a vague, uncertain memory of Pam being quiet the next time I saw her. Think about that now-- it looks like I wanted badly to be rid of her for that trip.
+</event>
+
+<event
+start="1975-05-15"
+end="1977-05-15"
+title="Dodge Dart!"
+description=" "
+image="images/1970s/thumbs/1976-09-n10-tcc-parking-lot-from-dorm-room-77.png"
+link="images/1970s/fullsized/1976-09-1964-dodge-dart.png"
+color=" purple"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+(!)Bought from John Hedlin for $100. I painted it myself and put a maple leaf on the hood. It was kind of cool, actually. I changed the shocks and added "load-lifter" springs which gave it quite the stiff ride.
+</event>
+
+<event
+start="1975-12-20"
+end="1975-12-20"
+title="Karin Schat made breakfast."
+description="Wearing her blue baby dolls."
+image="images/1970s/thumbs/1975-08-22-karin.png"
+link="images/1970s/fullsized/1975-08-22-karin-baby-dolls.png"
+color=" blue"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+I was giving Helen a ride home and stayed overnight. Helen had to work the next morning so Karin was asked to make me breakfast. She seemed to resent the obligation so she did so, somewhat rudely, in her nighty. Then she sat cross-legged on the floor as I ate reading "Helter Skelter" assuming, as I later learned, that she would never see this bozo ever again. Must have been on way home (date) but unusual that I would have been by myself with Helen, but not totally unlikely.
+</event>
+
+<event
+start="1975-08-01"
+end="1975-08-01"
+title="I was at ICS conference "
+description=" "
+image="images/1970s/thumbs/1975-08-01-bill-guitar-marcia-ics-conf-5.png"
+link="images/1970s/fullsized/1975-08-01-bill-guitar-marcia-ics-conf-5.png"
+color=" teal"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+(!) I may have driven with Rick Vanderwoude, and I think we went to my parent\s house and stayed there overnight. I remember Rick commenting that my parents seemed nice. Near Fort Erie-- Helen has picture of me with guitar. Marcia was there, and Dennys Afman, with Irene! Did we give Helen a ride? At some point, she made breakfast for us (on the way back, probably) in a sheer night-gown which, in the backlit morning, was nearly transparent. Helen has a photo showing Ricks car in the background (a Dodge Demon or similar). That makes sense. In 1976, I was in Calgary so it had to be 1975.
+</event>
+
+<event
+start="1975-09-01"
+end="1975-09-01"
+title="Nell Hotke, Alice Bos, Nancy Smit, Ralph etc."
+description="Who else? Can\t remember right now."
+image="images/1970s/thumbs/1975-00-00-nell-hotke-fred-rick-larry.png"
+link="images/1970s/fullsized/1975-00-00-nell-hotke-fred-rick-larry.png"
+color=" blue"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+Nancy Smit, Ralph Huizinga, Charles Kooger, Joanne Koole, Nell Hotke, Alice Bos, Bryan Gesch Dave Guerrin, Kathy Van Drunen. arrive at TCC. Roommate: Hank Hunse, first floor South Hall. I remember Hank used a sun lamp to work on his oily back and pimple problem. I was editor of the Perc and I think I remember being just down the hall.
+</event>
+
+<event
+start="1975-09-01"
+end="1975-09-01"
+title="Meine Visser"
+description="Who else? Cant remember right now."
+image="images/1970s/thumbs/1977-meine-visser.png"
+link="images/1970s/fullsized/1977_-meine-visser.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+I cant remember how we met, but I remember immediately riffing into some absurd dialogue about something or another. People said I should meet him-- we had things in common. He was returning from Simon Fraser University in BC. They lived in an apartment then-- not Cooks old house. He and Cathy used to fight all the time.
+</event>
+
+<event
+start="1975-09-01"
+end="1976-05-15"
+title="Living in Chicago- sophomore year."
+description="While attending Trinity Christian College"
+image="images/1970s/thumbs/1975-09-19-bill-bday-001.png"
+link="images/1970s/fullsized/1975-09-19-bill-bday-001.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+It was a great party-- they gave me a film editor. We had made "The Weed" that summer (with Rick Vanderwoude and Ray Leo). Kind of wreckless with the old Ford Truck.
+</event>
+
+<event
+start="1975-11-03"
+end="1975-11-03"
+title="Letter - Laura Venema. "
+description="Letter from Laura."
+image="images/1970s/thumbs/1975-10-laura-venema.png"
+link="images/1970s/fullsized/1975-10-laura-venema.png"
+color=" purple"
+textcolor=" purple"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/red-circle.png"
+classname=" " >
+(!) Anguished letter about how I didnt even tell her I was going to Toronto after suspension.
+</event>
+
+<event
+start="1976-01-01"
+end="1976-06-30"
+title="Ellen Kok"
+description="How the marginal works against us."
+image="images/1970s/thumbs/1976-04_-ellen-kok.png"
+link="images/1970s/fullsized/1976-04-ellen-kok.png"
+color=" purple"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+This began while we were working on the Percolator together.
+</event>
+
+<event
+start="1976-01-10"
+end="1976-03-15"
+title="Dr. Input."
+description="With Rick Vanderwoude."
+image="images/1970s/thumbs/1976-02-hank-hunse-doctor-input.png"
+link="images/1970s/fullsized/1976-02-bill-movie-camera.png"
+color=" gray"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray-circle.png"
+classname=" " >
+(!) It was probably Jan - Feb 1976. Sure it was -- Ellen was involved obliquely. Definitely winter (snow in some scenes). It was shown March 8.
+</event>
+
+<event
+start="1976-04-01"
+end="1976-04-01"
+title="John Calvin and the Calvinettes"
+description="with Irene, Marcia, and Ellen."
+image="images/1970s/thumbs/1976-04-spring-bill-calvinettes.png"
+link="images/1970s/fullsized/1976-04-spring-bill-calvinettes.png"
+color=" purple"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Notes here
+</event>
+
+<event
+start="1976-05-14"
+end="1976-08-31"
+title="Working for UGG."
+description="Worked for United Grain Growers"
+image="images/1970s/thumbs/1977-07a-n03-calgary-ugg-warehouse.png"
+link="images/1970s/fullsized/1977-07a-n03-calgary-ugg-warehouse.png"
+color=" red"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Working for UGG. "
+icon="icons/dark-green-circle.png"
+classname=" " >
+Piets dad hired Mark, me, Nick, and Piet for the summer, at the Calgary warehouse. I did mostly carpentry work with a bad-tempered ugly man named Marvin, who could only communicate by yelling. Photo from 1977.
+</event>
+
+<event
+start="1976-05-14"
+end="1976-08-31"
+title="Living in Calgary."
+description="Worked for United Grain Growers"
+image="images/1970s/thumbs/1976-07a-n20-calgary-apt-nick-mark-reading-76.png"
+link="images/1970s/fullsized/1976-07a-n16-feet.jpg"
+color=" red"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Living in Calgary with Mark and Nick"
+icon="icons/dark-green-circle.png"
+classname=" " >
+Lived with Mark, Nick. Charles got a job out in Red Deer where a brother was living. He bought a Chevy but, on the way to Washington State, the valves got very noisy and weird and we lost power. We stopped at the top of a mountain and noticed the stunning sky. Then Henry Bruinsma used an adjustable wrench to tighten the headers and got us to Washington. How did we get back?
+</event>
+
+<event
+start="1976-06-02"
+end="1976-06-02"
+title="Mountain climbing, Two-Jacks Lake."
+description="Climbed a mountain, rented boats, near Lake Louise."
+image="images/1970s/thumbs/1976-06-03-Lake-Louise-helen-dated.png"
+link="images/1970s/fullsized/1976-06-03-Lake-Louise-helen-dated.png"
+color=" black"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+(!) The photo is dated. Attended by Helen, Irene, Jackie, Alice Vanderhoek, Cathy De Peuter, Mark Vandervennen, Henry Bruinsma, Charlie Kooger, Dorothe Ellens. A bunch of us went out to the mountains, and boating on a small lake.
+</event>
+
+<event
+start="1976-06-05"
+end="1976-06-15"
+title="Piets wedding."
+description="Piets wedding in Calgary."
+image="images/1970s/thumbs/1976-06-05-calgary-piets-wedding-4.png"
+link="images/1970s/fullsized/1976-06-05-calgary-piets-wedding-4.png"
+color=" black"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption="Piets Wedding"
+icon="icons/blue.png"
+classname=" " >
+Attended by Helen, Irene, Jackie, Alice Vanderhoek, Cathy De Peuter, Mark Vandervennen, Henry Bruinsma, Charlie Kooger, Dorothe Ellens. A bunch of us went out to the mountains, and boating on a small lake. Helen, Irene, Jackie, Alice Vanderhoek, Cathy De Peuter, Mark Vandervennen, Henry Bruinsma, Charlie Kooger, Dorothe Ellens.
+</event>
+
+<event
+start="1976-06-19"
+end="1976-06-19"
+title="Ed - Kathys wedding."
+description="Which I missed-- I was working in Calgary at the time."
+image="images/1970s/thumbs/1976-06-19Ed-Kathy-wedding300.png"
+link="images/1970s/fullsized/1976-06-19Ed-Kathy-wedding.png"
+color=" black"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+I was in Calgary at the time. Mom later mentioned that I hadnt even sent a card or phoned. True-- pretty insensitive of me, but I was not big on "family" at the time.
+</event>
+
+<event
+start="1976-08-10"
+end="1976-08-14"
+title="Vancouver - visited Yvonne Groen"
+description="Drove to Vancouver with Charlie, Mark, Henry, in Charlies chevy."
+image="images/1970s/thumbs/1976-08-10-n12a-vancouver-acqarium-2.png"
+link="images/1970s/fullsized/1976-08-10-n12a-vancouver-acqarium-2.png"
+color=" blue"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon=" "
+classname=" " >
+Was almost certainly 1976, living with Mark and Nick in basement apartment. Charlies car kept breaking down on the way and Henry, miraculously, fixed the headers. He got rid of it soon. Also went to Washington State and visited Trudy Vanderzouwen. Stopped at a small road-side booth for clam chowder, which I always remember as being great.
+</event>
+
+<event
+start="1976-09-01"
+end="1976-10-31"
+title="Aborted Junior Year"
+description="Quit school in November, I think."
+image="images/1970s/thumbs/1976-10-tcc-halloween-76-06.png"
+link="images/1970s/fullsized/1976-10-tcc-halloween-76-06.png"
+color=" blue"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon=" "
+classname=" " >
+Who was my room-mate? I think it was Charlie Kooger, with Sid in the other side.
+</event>
+
+<event
+start="1976-09-10"
+end="1976-09-15"
+title="Toilet on roof."
+description=" ha"
+image="images/1970s/thumbs/images/1970s/thumbs/1977-09-n05-randy-toilet-on-roof.png"
+link="images/1970s/fullsized/1976-09-n05-randy-kok-toilet-roof-prank.png"
+color=" gray"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption="Toilet on Roof"
+icon="icons/dark-green-circle.png"
+classname=" " >
+(!!!) See 1976-1977 yearbook! Trinity Christian College: Junior Year. There is a photo. Iron-clad: in one photo, Randy holds the Sep 20, 1976 issue of Time Magazine - After Mao!
+</event>
+
+<event
+start="1976-11-15"
+end="1977-03-15"
+title="In St. Davids-- quit TCC to go to Holland."
+description="Stayed home and read and didnt do much else until I had my passport."
+image="images/1970s/thumbs/1976-10-tcc-halloween-76-06.png"
+link="images/1970s/fullsized/1976-10-tcc-halloween-76-06.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/brown.png"
+classname=" " >
+Stayed home and read and didnt do much else until I had my passport. I think I visited Hank around Christmas time. Was there a party at his small cottage?
+</event>
+
+<event
+start="1977-01-21"
+end="1977-05-15"
+title="Helen in Holland."
+description="I visited some time in February, I think. Then met up with Irene Smit."
+image="images/1970s/thumbs/1977-03-holland-program.png"
+link="images/1970s/fullsized/1977-04-holland-julianas-bday-3.png"
+color=" purple"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+With the overseas study group, including Rinke, Sonya, Marcia, Charlie. I believe this is really where Marcia and Charlie started their relationship.
+</event>
+
+<event
+start="1977-01-15"
+end="1977-02-15"
+title="In Holland."
+description="Travelling, met Irene Smit who chickened out."
+image="images/1970s/thumbs/1976-09-n20y-irene-smit-toronto.png"
+link="images/1970s/fullsized/1977-04-holland-irene-smit-dinner.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+I visited the TCC group some time in January (journal). Then met up with Irene Smit who had promised to go to Paris with me, but changed her mind when her aunt told her she would not be welcome back at her house if she did. Travelling, met Irene Smit who chickened out. She knew, well before I even got my passport, that she would not be able to travel but never told me until I arrived in Holland, because she was lonely and didnt want me to cancel.
+</event>
+
+<event
+start="1977-03-01"
+end="1977-08-31"
+title="In Calgary, working for UGG."
+description="Few memories of this time period, other than Edmonton trip! Strange interregum."
+image="images/1970s/thumbs/1977-07a-n16-calgary-cars-at-sjane\s.png"
+link="images/1970s/fullsized/1977-07a-n16-calgary-cars-at-sjane\s.png"
+color=" red"
+textcolor=" red"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray-circle.png"
+classname=" " >
+Stayed with Sjane Heerema for a month or so, then got an apartment on hill over-looking downtown. Dart broke down; I eventually had Sid tow it to a junkyard outside of town, after replacing it with the 1972 Valiant.
+</event>
+
+<event
+start="1977-06-15"
+end="1979-08-15"
+title="1967 Valiant."
+description=" Cars."
+image="images/1970s/thumbs/1977-07-calgary-valiant.png"
+link="images/1970s/fullsized/1977-07a-n16-calgary--my-cars-at-sjanes.png"
+color=" orange"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+Bought used in Calgary after starter motor or something went wrong on 1964 Dodge Dart. Photo of last view of Dart as I abandoned it at junkyard in Calgary, to be "seized" by customs for non-payment of duty.
+</event>
+
+<event
+start="1977-09-01"
+end="1978-05-15"
+title="Joyce Kooger, Karin Schat, Randy Kok."
+description="Joyce Kooger, Karin Schat, Randy Kok, arrive at TCC."
+image="images/1970s/thumbs/1978-05-n12-tcc-karin-joyce-randy-bill.png"
+link="images/1970s/fullsized/1978-05-n12-tcc-karin-joyce-randy-bill.png"
+color=" blue"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption="Karin, Joyce, Randy, Bill"
+icon="icons/blue.png"
+classname=" " >
+Who else? Janet Molenaar, Anita Verwoerd. Randy Kok? Cant remember right now. Karin and I almost immediately have a big argument with Karin over German culpability for the holocaust, during which she slapped my face. Karin took Grade 13 and entered as a sophomore.
+</event>
+
+<event
+start="1977-08-01"
+end="1977-10-15"
+title="Wrote my first novel."
+description="First Novel."
+image="images/1970s/thumbs/1977-07-calgary0002-first-novel.png"
+link="images/1970s/fullsized/1977-07-calgary0002-first-novel.png"
+color=" gray"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray-circle.png"
+classname=" " >
+While in Calgary, using IBM Selectric Sid and I bought together. He later won the coin flip and got to keep it.
+</event>
+
+<event
+start="1977-09-01"
+end="1978-05-15"
+title="Trinity Christian College: Junior Year."
+description=" "
+image="images/1970s/thumbs/1978-03-085-henk-bruinsma.png"
+link="images/1970s/fullsized/1978-03-085.png"
+color=" gray"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-green-circle.png"
+classname=" " >
+Room-mate: Henk Bruinsma, top floor, South Hall; Sid was suite mate, I believe. Karin and Joyce arrive.
+</event>
+
+<event
+start="1977-09-01"
+end="1978-05-15"
+title="Room-mate: Henk Bruinsma."
+description=" "
+image="images/1970s/thumbs/1978-03-bill-henry.png"
+link="images/1970s/fullsized/1978-03-bill-henry.png"
+color=" gray"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray-circle.png"
+classname=" " >
+Room-mate: Henk Bruinsma, top floor, South Hall; Sid was suite mate, I believe. Janet Molenaar, Anita Verwoerd, Karin Schat, and Joyce Kooger arrive.
+</event>
+
+<event
+start="1977-10-01"
+end="1977-10-02"
+title="Martha Madany"
+description=" "
+image="images/1970s/thumbs/1978-05-tcc-helens-graduation-5.png"
+link="images/1970s/fullsized/1978-05-tcc-helens-graduation-5.png"
+color=" gray"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray-circle.png"
+classname=" " >
+It is definitely MARTHA (not Marthe). She is now married to Tiemens. Henry oddly told me several times that Martha really liked me. One night around this time, she came to our room looking for Henry-- or maybe not. And then she jumped me, very aggressively and we wrestled around for a while until I realized she wanted something specific. Neither of us ever acknowledged this event later, but she and Henry soon broke up.
+</event>
+
+<event
+start="1977-09-01"
+end="1992-01-01"
+title="Ghost of Frigid Hysterics"
+description="The loss of innocent desire by corrupted Carolina, 1978-1995"
+image="images/1970s/thumbs/1975-08-22-karin.png"
+link="images/1970s/fullsized/1975-08-22-karin.png"
+color="chartreuse"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" Karin"
+icon="icons/red-circle.png"
+classname=" " >
+Why is this here?
+</event>
+
+<event
+start="1977-01-13"
+end="1977-01-13"
+title="Jonathan Schat born."
+description=" where?"
+image="images/1970s/thumbs/1977-00-00-jonathan-schat.png"
+link="images/1970s/fullsized/1977-00-00-jonathan-schat.png"
+color=" gray"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+(!) Where ever.
+</event>
+
+<event
+start="1978-03-08"
+end="1978-03-08"
+title="Joyce Goes for it!"
+description="The calculation of demented cross-over submission."
+image="images/1970s/thumbs/1977-10-n21-3girls.png"
+link="details/joyce_goes_for_it.htm"
+color=" red"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption="Joyce goes for it."
+icon="icons/dark-green-circle.png"
+classname=" " >
+Poem dated, very likely very close to the actual date. As we were walking back from Braigels, she put her arm around my waist and when we got to the bridge, she stopped me, put both arms around me, and French-Kissed me and gave me a long look to check out my reaction.
+</event>
+
+<event
+start="1978-05-01"
+end="1978-05-01"
+title="Helen graduates and moves to Chatham to teach."
+description="Lived with Ann in apartment on Forest Street."
+image="images/1970s/thumbs/1978-05-graduation--087.png"
+link="images/1970s/fullsized/1978-05-graduation--087.png"
+color=" green"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray-circle.png"
+classname=" " >
+She then lived with Ann on Forest St. until we got married a year later. Her father and George Antuma found her a 1972 Valiant, which she drove to Chicago occasionally to see me, at least once with Ann.
+</event>
+
+<event
+start="1978-09-01"
+end="1979-05-15"
+title="TCC Senior Year."
+description=" "
+image="images/1970s/thumbs/1978-10-bill-gtr.png"
+link="images/1970s/fullsized/1978-10_-tcc-7602-bill-gtr.png"
+color=" gray"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/brown.png"
+classname=" " >
+Single room; Hans De Mildt. Gwendy Kooger.
+</event>
+
+<event
+start="1978-10-01"
+end="1978-10-01"
+title="Ann snorks it!"
+description="The calculation of demented cross-over submission."
+image="images/1970s/thumbs/1978-03-ann-snorkle.png"
+link="images/1970s/fullsized/1978-03-ann-snorkle.png"
+color=" green"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Anns hilarious ability to stick cigarettes into her nose. That card! So much fun. Wonder where else she can stick it?
+</event>
+
+<event
+start="1978-09-01"
+end="1979-05-01"
+title="Senior Year!"
+description="The calculation of demented cross-over submission."
+image="images/1970s/thumbs/1979-tcc-hans-guitar.png"
+link="images/1970s/fullsized/1979-tcc-hans-guitar.png"
+color=" green"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Hans De Mildt is my suite-mate
+</event>
+
+<event
+start="1978-05-01"
+end="1978-05-01"
+title="Joyce Karin Randy!"
+description=" friends"
+image="images/1970s/thumbs/1978-05-n12-tcc-karin-joyce-randy-bill.png"
+link="images/1970s/fullsized/1978-05-n12-tcc-karin-joyce-randy-bill.png"
+color=" green"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Randy Kok and others came to Trinity and here we are hanging out in the lounge in South Hall.
+</event>
+
+<event
+start="1979-05-15"
+end="1979-05-15"
+title="Last Day in Chicago"
+description="Moved to Chatham."
+image="images/1970s/thumbs/1979-05a-n15a-tcc-nancy-howard.png"
+link="images/1970s/fullsized/1979-05a-n15a-tcc-nancy-howard.png"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/brown.png"
+classname=" " >
+Bidding a sad farewell, at least for Howard. We spent a lot of time playing guitar together. and talking about girls and smoking the last year. He liked Karin but was too shy to say anything to her. He was also a classic psyche student: blatantly trying to analyze you without showing it.
+</event>
+
+<event
+start="1979-06-01"
+end="1979-10-01"
+title="221 Forest St. Apartment."
+description="A small apartment on second floor."
+image="images/1970s/thumbs/1979-06-chatham-jackie-helen-ann.png"
+link="images/1970s/fullsized/1979-06-chatham-jackie-helen-ann.png"
+color=" black"
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/brown.png"
+classname=" " >
+Notes here
+</event>
+
+<event
+start="1979-07-14"
+end="2014-07-14"
+title="Marriage 35 - Years"
+description="Helen Edith Schat - Bill Van Dyk"
+image="images/1970s/thumbs/1979-07-14-114-tecumseh-park.png"
+link="images/1970s/fullsized/1979-July-Bill-and-Helen-at-their-rehearsal.png"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Notes here
+</event>
+
+<event
+start="1979-10-01"
+end="1982-05-30"
+title="Lived at 147 Forest St. Chatham (Mrs. Curtin)."
+description="We must have moved by November."
+image="images/1980s/thumbs/1981-10b-n01-fred-roofing-2.png"
+link="images/1980s/fullsized/1981-10b-n01-fred-roofing-2.png"
+color=" "
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/brown.png"
+classname=" " >
+- Christmas was at our house.
+</event>
+
+<event
+start="1979-09-01"
+end="1980-06-27"
+title="Taught at Chatham District Christian."
+description="Henry Kooy was principal."
+image="images/1980s/thumbs/1980-12-n04-mitty-louis-brenda-cindy-john.png"
+link="images/1980s/fullsized/1980-12-n04-mitty-louis-brenda-cindy-john.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/green.png"
+classname=" " >
+Taught a "remedial" class of six in the "doghouse", subbed occasionally, and ended up directing "Walter Mitty".
+</event>
+
+<event
+start="1979-10-05"
+end="1979-10-07"
+title="Visited Chicago."
+description="Chicago Visit."
+image="images/1970s/thumbs/1979-10-chicago-jackies-apartment-bryan-gesch.png"
+link="images/1970s/fullsized/1979-10-chicago-jackies-apartment-bryan-gesch.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-green-circle.png"
+classname=" " >
+(!) Jackie, Bryan, Kathy, Meine. Trip to Chicago with Helen, stayed at Jackies apartment somewhere near 95th street, I think. This photo is from that trip!
+</event>
+
+<event
+start="1980-06-01"
+end="1980-06-01"
+title="Emceed Hank and Joannes Wedding."
+description="I think I stunk at it."
+image="images/1980s/thumbs/1980-06a-n07-bill--singing-hank-joanne-wedding.png"
+link="images/1980s/fullsized/1980-06a-n07-bill--singing-hank-joanne-wedding.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/green.png"
+classname=" " >
+I was the MC. I do not remember much about it. I did a song. What song?
+</event>
+
+<event
+start="1980-09-01"
+end="1981-06-27"
+title="Writing and subbing occasionally."
+description="For Henry Kooy."
+image="images/1980s/thumbs/1980-12-n04-mitty-louis-brenda-cindy-john.png"
+link="images/1980s/fullsized/1980-12-n04-mitty-louis-brenda-cindy-john.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/green.png"
+classname=" " >
+I also directed Walter Mitty, the CDCSS drama production that year.
+</event>
+
+<event
+start="1981-01-01"
+end="1981-06-27"
+title="Barb Schouten lived with us. "
+description="She got married that summer."
+image="images/1980s/thumbs/1981-01a-n23a-barb-schouten.png"
+link="images/1980s/fullsized/1981-01a-n23a-barb-schouten-2.png"
+color=" red"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+Notes here
+</event>
+
+<event
+start="1981-01-01"
+end="1985-06-27"
+title="Jubilee "
+description=" Music."
+image="images/1980s/thumbs/1981-01a-jubilee-n0003.png"
+link="images/1980s/fullsized/1981-01a-jubilee-n0003.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray-circle.png"
+classname=" " >
+(^) Fred and I met while working on "Reason to Rejoice" with Calvin Davies. Then we decided to get together and jam and have some fun, which evolved into Jubilee.
+</event>
+
+<event
+start="1981-07-11"
+end="1981-07-12"
+title="Bob De Jonge came over, jammed with me."
+description=" "
+image="images/1980s/thumbs/1981-08a-n16-bob-dejonge-bill.png"
+link="images/1980s/fullsized/1981-08a-n16-bob-dejonge-bill.png"
+color=" red"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+Recorded in, front room at 147 Forest St. Testing. I still have the recording of those sessions. We did "Bad Moon Rising" and various other songs.
+</event>
+
+<event
+start="1981-09-01"
+end="1986-06-27"
+title="Taught at Chatham District Christian."
+description="For Henry Kooy, then Herman Proper."
+image="images/1980s/thumbs/1984-11a-n07-bill-in-classroom-3.png"
+link="images/1980s/fullsized/1984-11a-n07-bill-in-classroom-3.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/green.png"
+classname=" " >
+Mass media, English, Typing, even Music. Yes, Music.
+</event>
+
+<event
+start="1981-10-01"
+end="1981-10-01"
+title="Nikon EM."
+description=" cameras"
+image="images/1980s/thumbs/1981-10b-n28-bill-new-nikon-em.png"
+link="images/1980s/fullsized/1981-10b-n28-bill-new-nikon-em.png"
+color=" gray"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray-circle.png"
+classname=" " >
+Purchased Nikon EM, probably from Blacks, with flash. Decent if not great camera, partly manual. 35mm of course.
+</event>
+
+<event
+start="1978-06-01"
+end="1983-08-01"
+title="1972 Plymouth Valiant."
+description="Brown car."
+image="images/1980s/thumbs/1981-07c-n02-helen-washing-valiant.png"
+link="images/1970s/fullsized/1979-05a-n15a-tcc-nancy-howard.png"
+color=" orange"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+Helens dad bought it with help from George Antuma, for Helen. There is a picture dated August 1983, in our house on 112 ONeill St.
+</event>
+
+<event
+start="1980-01-01"
+end="1980-04-01"
+title="Reason to Rejoice."
+description=" "
+image="images/1980s/thumbs/reason2rejoice.png"
+link="images/1980s/fullsized/reason2rejoice.png"
+color=" red"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray.png"
+classname=" " >
+Met Fred Feyen at rehearsals for CDCSS Choir performing "Reason to Rejoice". I played electric guitar. I taught the small grade 9 class this year. Are there no pictures in the yearbook?
+</event>
+
+<event
+start="1980-07-01"
+end="1980-07-01"
+title="Bryan and Kathy Gesch Married"
+description=" "
+image="images/1980s/thumbs/1980-07a-n00a-bryan-kathys-wedding.png"
+link="images/1980s/fullsized/1980-07a-n00a-bryan-kathys-wedding.png"
+color=" red"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray.png"
+classname=" " >
+I was best man-- surprise (not Dave Guerin). I sang a song, did a toast, I suppose. I think we did "When Im 64". Very little memory of the event. Who was the girl I was paired with?
+</event>
+
+<event
+start="1981-02-20"
+end="1981-02-20"
+title="Jubilee (Potpourri Band) debuts at CLAC banquet in Chatham."
+description="Description."
+image="images/1980s/thumbs/1981-01a-n08b-marg-feyen-piano-calvary-crc-clac.png"
+link="images/1980s/fullsized/1981-01a-n08b-marg-feyen-piano-calvary-crc-clac.png"
+color=" brown"
+textcolor=" brown"
+tapeImage="icons/blue_stripes.png"
+tapeRepeat="repeat-x"
+caption=" "
+icon="icons/dark-green-circle.png"
+classname="hot_event" >
+(!) We performed "Factory" but mostly did singalongs. This photo is probably actually from a rehearsal but very close to the actual date.
+</event>
+
+<event
+start="1981-11-01"
+end="1983-03-01"
+title="1981 Dodge van."
+description="We still had the Valiant! Confirmed!"
+image="images/1980s/thumbs/1981-11a-n20-dodge-van.png"
+link="images/1980s/fullsized/1981-11a-n20-dodge-van.png"
+color=" orange"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+There is a picture, obviously because we just bought it, in negatives 198111a. We did not have it for very long. We bought a Lada.
+</event>
+
+<event
+start="1981-12-31"
+end="1982-01-01"
+title="New Years with Fred and Marg."
+description="Spent New Years Eve with Fred and Marg."
+image="images/1980s/thumbs/1982-01-01-n20a-rondeau-with-feyens.png"
+link="images/1980s/fullsized/1982-01-01-n20a-rondeau-with-feyens.png"
+color=" orange"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+The next day, we went to Rondeau with our cameras and took pictures. I used Black and White Film.
+</event>
+
+<event
+start="1982-02-01"
+end="1982-02-01"
+title="Meine visits us in Chatham."
+description=" travel"
+image="images/1980s/thumbs/1982-02a-meine-helen-chatham-n12a.png"
+link="images/1980s/fullsized/1982-02a-meine-helen-chatham-n12a.png"
+color=" blue"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+Pictures. Date not exact by any means.
+</event>
+
+<event
+start="1982-03-14"
+end="1982-03-14"
+title="With Helen in Toronto visiting Karin."
+description=" travel"
+image="images/1980s/thumbs/1982-02-00a-karin-toronto-n05.png"
+link="images/1980s/fullsized/1982-02-00a-karin-toronto-n05.png"
+color=" blue"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+Pictures.
+</event>
+
+<event
+start="1982-05-01"
+end="1989-07-01"
+title="Lived at 112 ONeill St."
+description=" "
+image="images/1980s/thumbs/1983-12-15-n15-bill-paul-bizzard.png"
+link="images/1980s/fullsized/1983-12-15-n15-bill-paul-bizzard.png"
+color=" brown"
+textcolor=" brown"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/brown.png"
+classname=" " >
+Rented at first, then purchased from Ray Vandersluis mom. She gave us an exceptionally good deal because we taught at the Christian Schools. I think it was $80k.
+</event>
+
+<event
+start="1982-07-01"
+end="1982-07-05"
+title="Visited Chicago."
+description=" trips"
+image="images/1980s/thumbs/1982-07a-n13-chicago-helen-lauren-badminton.png"
+link="images/1980s/fullsized/1982-07a-n13-chicago-helen-lauren-badminton.png"
+color=" yellow"
+textcolor=" yellow"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+Pictures of Jackie, Meine, kids.
+</event>
+
+<event
+start="1982-08-02"
+end="1982-08-09"
+title="Cottage near Parry Sound"
+description=" "
+image="images/1980s/thumbs/1982-08a-cottage-parry-sound.png"
+link="images/1970s/fullsized/1982-08a-cottage-parry-sound.png"
+color=" mauve"
+textcolor=" mauve"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+With Karin, Jun, Fred and Henny, Aafke, Douwe. I think Anne was there for the first few days, and then I brought her back to Toronto.
+</event>
+
+<event
+start="1982-08-02"
+end="1982-08-05"
+title="ICS Conference, Rinke, Sonya."
+description="Was this the year I played in the band?"
+image="images/1980s/thumbs/1982-08a-n01-ics-conference-05-helen-van.png"
+link="images/1980s/fullsized/1982-08a-n01-ics-conference-05-helen-van.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+And Jackie was there (see pix). We camped at a provincial campground across the creek, rather than in the ICS Tent Ghetto. Did I play that year? Cant remember.
+</event>
+
+<event
+start="1983-06-22"
+end="1983-06-24"
+title="Bryan and Kathy Gesch visit, with Rudy."
+description="Bryan Kathy Gesch - last time we saw them."
+image="images/1980s/thumbs/1983-06-22-n05-bryan-gesch-barbeque-chatham.png"
+link="images/1980s/fullsized/1983-06-22-n05-bryan-gesch-barbeque-chatham.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Here for a few days, with Rudy. Not altogether comfortable and I believe it was the last real visit with someone I was best man for at his wedding.
+</event>
+
+<event
+start="1983-03-01"
+end="1989-08-01"
+title=" Lada."
+description="Which we drove to Chicago in October."
+image="images/1980s/thumbs/1983-03a-n11-helen-paul-lada.png"
+link="images/1980s/fullsized/1984-05a-n17a-12-lada-wash.png"
+color=" orange"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+Which we drove to Chicago in October. Not sure when we sold it to Len Moelker but it was after 1989-07-29 (its in the barn at Tissiman house on video). We must have kept it while we had the Fairmont and well into the Malibu years. Actually, a pretty nice car, with a hilarious owners manual, in Russian-accent English. It broke down in Michigan, I believe. I think we needed a fan belt. I told the auto parts guy it was a Fiat because I didnt want trouble but when he couldnt find the part, I told him it was a Lada. Actually, a pretty nice car, with a hilarious owners manual, in Russian-accent English.
+</event>
+
+<event
+start="1984-03-01"
+end="1984-04-30"
+title="Recording on Fostex 250."
+description="Rented from Strings and Things, using Casio for beat, original songs."
+image="images/1980s/thumbs/1984-03a-n15-bill-recording.png"
+link="images/1980s/fullsized/1984-03a-bill-recording.png"
+color=" mauve"
+textcolor=" pink"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray-circle.png"
+classname=" " >
+Notes here
+</event>
+
+<event
+start="1984-04-05"
+end="1984-04-05"
+title="Apple IIc: my first computer."
+description="Bought from MicroAge."
+image="images/1980s/thumbs/1984-05a-n11a-14-new-apple-iic.png"
+link="images/1980s/fullsized/1984-05a-new-appleiic.png"
+color=" mauve"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray-circle.png"
+classname=" " >
+I was absolutely the first person I knew to buy a personal computer, except for Harry Van Dyke maybe (he bought an AT Clone around this time). Borrowed the money from Helens parents, which we paid back quickly.
+</event>
+
+<event
+start="1985-03-05"
+end="1985-03-05"
+title="Teaching at CDCSS."
+description="Teaching at CDCSS."
+image="images/1980s/thumbs/1985-03a-n05-grade-9-karen-bishop.png"
+link="images/1980s/fullsized/1984-11a-n07-bill-in-classroom-3.png"
+color=" mauve"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray-circle.png"
+classname=" " >
+Taught some English, typing, even music.
+</event>
+
+<event
+start="1985-06-30"
+end="1985-07-06"
+title="Camping at Pinery."
+description="vacation."
+image="images/1980s/thumbs/1985-06b-n13-pinery-park-17.png"
+link="images/1980s/fullsized/1985-06b-n13-pinery-park-17.png"
+color=" gray"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+Camped at Pinery Park.
+</event>
+
+<event
+start="1985-07-20"
+end="1985-07-20"
+title="Ann and Al."
+description="marriage."
+image="images/1980s/thumbs/1985-07-20b-n07-ann-als-wedding-11.png"
+link="images/1980s/fullsized/1985-07-20b-n07-ann-als-wedding-11.png"
+color=" gray"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-green-circle.png"
+classname=" " >
+(!) Got married in Toronto. Relatively small, low priced affair.
+</event>
+
+<event
+start="1985-07-30"
+end="1985-07-30"
+title="Storybook Gardens."
+description="Storybook Gardens."
+image="images/1980s/thumbs/1985-07-25-n22-storybook-gardens-1.png"
+link="images/1980s/fullsized/1985-07-25-n22-storybook-gardens-1.png"
+color=" gray"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+Took Paul and Danielle to Storybook gardens with Grandpa and Grandma Schat. Right after mom and dads 40th anniversary at Beacon restaurant, Vineland.
+</event>
+
+<event
+start="1985-08-10"
+end="1985-08-10"
+title="Jubilee in the Gym."
+description="Jubilee Jam Session in CDCSS Gym."
+image="images/1980s/thumbs/1985-08-10-jubilee-gym.png"
+link="images/1980s/fullsized/1985-08-10-jubilee-gym.png"
+color=" gray"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+Just for fun-- jam session doing "Bad Moon Rising", "Monster Mash", etc., with kids running around.
+</event>
+
+<event
+start="1986-06-01"
+end="1986-07-01"
+title="Volunteered St. Leonards Society."
+description=" "
+image="images/1980s/thumbs/jesus_use_me.png"
+link="images/1980s/fullsized/"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/green.png"
+classname=" " >
+I would have been employed at the half-way house, but they didnt get of the ground. Ron Grainger and the hot little secretary.
+</event>
+
+<event
+start="1986-04-22"
+end="1986-04-22"
+title="Bert Van Dyk died."
+description="What was the date?"
+image="images/1980s/thumbs/1984-07b-opa-oma-paul-danielle.png"
+link="images/1980s/fullsized/1984-07b-opa-oma-paul-danielle.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/green.png"
+classname=" " >
+(!) April 22, 1986. Born 1908-08-11.
+</event>
+
+<event
+start="1986-05-17"
+end="1986-05-17"
+title="Karin and Jun."
+description="marriage."
+image="images/1980s/thumbs/1986-05-17-n24-karin-juns-wedding-douwe-karinjun.png"
+link="images/1980s/fullsized/1986-05-17-n24-karin-juns-wedding-douwe-karinjun.png"
+color=" gray"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+Get married in Toronto. Karin wears a kimono.
+</event>
+
+<event
+start="1986-06-01"
+end="1986-06-02"
+title="Trip to Chicago."
+description="Unknown details."
+image="images/1980s/thumbs/1986-06a-n06-meine-bill-chicago.png"
+link="images/1980s/fullsized/1986-06a-n06-meine-bill-chicago.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/green.png"
+classname=" " >
+(!) Visited Chicago by myself, stayed overnight at Jackies probably.
+</event>
+
+<event
+start="1986-06-01"
+end="1986-06-02"
+title="Trip to St. Catharines."
+description="Unknown details."
+image="images/1980s/thumbs/1986-06-01-port-dalhousie-paul-danielle-helen.png"
+link="images/1980s/fullsized/1986-06-01-port-dalhousie-paul-danielle-helen.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/green.png"
+classname=" " >
+Visited St. Catharines, Port Dalhousie, with Paul and Danielle.
+</event>
+
+<event
+start="1986-09-01"
+end="1986-11-01"
+title="Worked at Erie Glass for Ron Stronks."
+description=" "
+image="images/1980s/thumbs/1993-00-erie_glass.png"
+link="images/1980s/fullsized/1993-00-erie_glass.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption="Erie Glass"
+icon="icons/green.png"
+classname=" work" >
+With a Postma-- not Steve, I think. Nice guy. Notes here Wonder what hes doing now? He was a good worker and showed me some of the ropes. I remember the first time we carried a new windows from the truck, it was too heavy for me-- we gripped it with gloves on the sides-- and I had to put it down for a second. I didnt know that putting it down on the concrete would destroy the "seal". Cost Ron Stronks a pretty penny, but he was pretty reasonable about it.
+</event>
+
+<event
+start="1986-11-01"
+end="1992-07-01"
+title="Worked at Lester B. Pearson Centre in Chatham."
+description="Julie Farrell."
+image="images/1980s/thumbs/1989-06b-n28-lpc-offices-82xx.png"
+link="images/1980s/fullsized/"
+color=" green"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/green.png"
+classname=" " >
+, who connived her way into the position. Met Susan Powers in waiting area, thought she was Julie.
+</event>
+
+<event
+start="1987-02-01"
+end="1987-02-01"
+title="Meine visits me in Chatham."
+description="Meine visits me in Chatham.."
+image="images/1980s/thumbs/1987-02-00-n14-078b-meine-in-chatham.png"
+link="images/1980s/fullsized/1987-02-00-n14-078b-meine-in-chatham.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/green.png"
+classname=" " >
+Dont remember much. Was he on his way to apply for a teaching position somewhere? Maybe St. Catharines? From photos, I think.
+</event>
+
+<event
+start="1987-06-01"
+end="1990-05-01"
+title="Womens Centre - Joy Pyymaki."
+description=" "
+image="images/1980s/thumbs/jesus_use_me.png"
+link="images/1980s/fullsized/jesus_use_me.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/green.png"
+classname=" " >
+started with Trinity project... very strange situation. Through the Pearson Center, I met Joy Pyymaki and her staff and began doing occasional consulting work at the Womens Shelter. I will always remember that whenever I came to the front door, I was greeted with overt hostility, until the volunteer answering the door found out I was a consultant.
+</event>
+
+<event
+start="1987-05-02"
+end="1987-05-02"
+title="Spoke from his cloak. Trinity Project Glen Audrey Turner."
+description="LPC Video Project"
+image="images/1980s/thumbs/1987-06-00-n05-all-you-need-is-love-crew-party-2.png"
+link="images/1980s/fullsized/1987-06-00-n05-all-you-need-is-love-crew-party-2.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray.png"
+classname=" " >
+So she was 15 and six months. In my daybook from that time, notes about Ruth Baleka as video resource, Glen and Audrey Turner, who were going to play the parents. Later, a note about talking to Melanie, assuming Kranenburg. On the schedule for May 2, 10:00 a.m., video?
+</event>
+
+<event
+start="1987-06-01"
+end="1987-07-01"
+title="Pauls broken foot."
+description="had a walker"
+image="images/1980s/thumbs/1987-06-kids-driveway-paul-cast-n24.png"
+link="images/1980s/fullsized/1987-06-kids-driveway-paul-cast-n24.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray.png"
+classname=" " >
+Pictures from this date, his left foot in a cast.
+</event>
+
+<event
+start="1987-06-01"
+end="1987-06-01"
+title="All You Need is Love at CDCSS"
+description=" plays"
+image="images/1980s/thumbs/1987-06-all-you-need-is-love-cast-crew-party.png"
+link="images/1980s/fullsized/1987-06-all-you-need-is-love-cast-crew-party.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray.png"
+classname=" " >
+Cast party pictures at my house from this date. We watched video of play, which has been lost. The Elzinga boys were game to act in it but never got around to memorizing their lines properly.
+</event>
+
+<event
+start="1987-10-16"
+end="1987-10-16"
+title="Trip to Chicago"
+description=" Chicago"
+image="images/1980s/thumbs/1986-06a-n06-meine-bill-chicago.png"
+link="images/1980s/fullsized/1986-06a-n06-meine-bill-chicago.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption="Trip to Chicago to visit Meine."
+icon="icons/blue.png"
+classname=" " >
+In my day book from that time. I dont see any pictures, possibly because they are misdated or I didnt take any. This picture is from a trip in June 1986.
+</event>
+
+<event
+start="1988-06-01"
+end="1989-07-13"
+title="1978 Ford Fairmont."
+description="The Malibu replaced it."
+image="images/1980s/thumbs/1988-07-01-n17a-fairmont-3.png"
+link="images/1980s/fullsized/1988-07-01-n17a-fairmont-3.png"
+color=" orange"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+Picture dated 1988-07, probably right after we bought it (being waxed). It was time to replace the Lada, which we eventually sold to Len Moelker no earlier than July 1989-- there is video if it in the garage at 116 Tissiman. But the Fairmont had problems stalling in wet weather. Referred to in very funny Christmas letter, 1988. Hard to find a picture but the Malibu replaced it and its definitely there by 1989-07. Helen had an accident with it 1989-06
+</event>
+
+<event
+start="1988-08-01"
+end="1988-08-14"
+title="Storybook Gardens"
+description="With Helens parents."
+image="images/1980s/thumbs/1988-08-01storybook-gardens300.png"
+link="images/1980s/fullsized/1988-08-01storybook-gardens.png"
+color=" teal"
+textcolor=" teal"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+Trip with Grandpa and Grandma Schat.
+</event>
+
+<event
+start="1989-03-09"
+end="1989-03-09"
+title="LPC Staff Retreat at the Guild in Scarborough."
+description="LPC Retreat"
+image="images/1980s/thumbs/1989-03-09-lpc-retreat-guild-scarborough-braddavis.png"
+link="images/1980s/fullsized/1989-03-09-lpc-retreat-guild-scarborough-braddavis.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+(!) Very strange weekend at this retreat facility. There was a pool A singaglong in someones room with my guitar, and Mark Raggs guitar: mostly me, Brad, Mark. The video is a good guide as to who was there at the time.
+</event>
+
+<event
+start="1989-08-26"
+end="1989-08-26"
+title="Roger Grootenboer marries Debbie Vanderende"
+description=" Wedding"
+image="images/1980s/thumbs/1989-08-26-Roger-Debbie-wedding.png"
+link="images/1980s/fullsized/1989-08-26-Roger-Debbie-wedding.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+(!) At one point Roger, who was dreaming the entire time, almost kissed Mr. Vanderende, after guiding him to his seat, and he almost kissed him back.
+</event>
+
+<event
+start="1989-06-01"
+end="1989-06-01"
+title="Helens accident- Fairmont."
+description="Helen had an accident with it 1989-06."
+image="images/1980s/thumbs/1989-06-00-helens-accident-fairmont.png"
+link="images/1980s/fullsized/1989-06-00-helens-accident-fairmont.png"
+color=" orange"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+- with 1978 Ford Fairmont wagon. I think it was the result of backing into the highway from Dreises place.
+</event>
+
+<event
+start="1989-07-01"
+end="1989-07-01"
+title="Takamine Guitar."
+description="Mentioned in Christmas Letter.."
+image="images/1990s/thumbs/1996-05-20-n14-calvin-bill-hank-3.png"
+link="images/1990s/fullsized/1996-05-20-n14-calvin-bill-hank-3.png"
+color=" purple"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/purple.png"
+classname=" " >
+(!) Christmas letter from 1989 confirms it. Purchased from Strings and Things. My first one was a dud. They replaced it with the much nicer ash-colored model I own today. This picture is from 1996, seven years later.
+</event>
+
+<event
+start="1989-07-15"
+end="1997-04-01"
+title=" Malibu."
+description=" "
+image="images/1990s/thumbs/1993-06c-n09-malibu.png"
+link="images/1990s/fullsized/1993-06c-n09.png"
+color=" orange"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" special" >
+There is a picture dated 1991 showing the Malibu in driveway. (!) Christmas letter from 1989 confirms: we bought Malibu that year!
+</event>
+
+<event
+start="1989-07-01"
+end="1989-07-01"
+title="Paul Vanderkooy."
+description="Mentioned in Christmas Letter."
+image="images/1990s/thumbs/1991-03-09-paul-vanderkooy-gq-concert.png"
+link="images/1990s/fullsized/1991-03-09-paul-vanderkooy-gq-concert.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/purple.png"
+classname=" " >
+(!) Paul Vanderkooy moved to Chatham, teaching at CCS, with Helen. We connected somewhere and started jamming together. I believe I first started jamming with Brad, and then Paul joined us. Around this time, Susan Vanderkooy began to "recover" memories of sexual abuse by her father. In retrospect, the "recovered" portion of this episode raises suspicions. Susan eventually left Paul for someone else and lived with him in GR. They might have gotten back together eventually.
+</event>
+
+<event
+start="1989-06-30"
+end="1994-06-30"
+title="116 Tissiman Ave. Chatham"
+description="Bought house from Tolsmas."
+image="images/1990s/thumbs/1991-08bc-n36b-christopher-helen-front-porch.png"
+link="images/1990s/fullsized/1991-08-n36b-christopher-helen116-tissiman.jpg"
+color=" brown"
+textcolor=" brown"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/brown.png"
+classname=" " >
+A really nice house, with a wonderful barn/garage out back, a tree-house, sand-box, garden. Great space for us at the time. The second floor of the barn was a great storage area. There was a ladder that you pulled down with a rope. Lots of workbench space.
+</event>
+
+<event
+start="1989-06-30"
+end="1989-07-29"
+title=" Nikki 1"
+description=" "
+image="images/1980s/thumbs/1989-07-01-n04-nikki.png"
+link="images/1980s/fullsized/1989-07-01-n04-nikki.png"
+color=" brown"
+textcolor=" brown"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-green-circle.png"
+classname=" " >
+Video dated July 7, 1989 shows Nikki 1 in the backyard with the kids. He is 3.5 months old on this date. This is definitely at 116 Tisssiman, so the photo is dated wrong.
+</event>
+
+<event
+start="1990-06-01"
+end="1990-07-01"
+title="Recording Good Question"
+description=" "
+image="images/1990s/thumbs/1990-06b-n03-good-question-by-studio.png"
+link="images/1990s/fullsized/1990-07-n03-by-studio.png"
+color=" "
+textcolor=" "
+tapeImage="icons/blue_stripes.png"
+tapeRepeat="repeat-x"
+caption="This is the events caption. "
+icon="icons/blue.png"
+classname="hot_event" >
+Recorded with Brad Davis, Fred Feyen, Paul Vanderkooy, Lara Schat. We rehearsed at our house for some time before recording. Really was a great experience. Steve Fowler and Sean Meriano engineered. The studio was owned by Tony Meriano. Strings and Things was owned by Tony Meriano and Clint Benoot. Recording engineer was Steve Fowler.
+</event>
+
+<event
+start="1990-08-19"
+end="1990-08-19"
+title="Douwe Schat died."
+description=" death."
+image="images/1990s/thumbs/1989-07-14-n21-45th-anniversary-1.png"
+link="images/1980s/fullsized/1989-07-14-n21-45th-anniversary-1.png"
+color=" "
+textcolor=" "
+tapeImage="icons/blue_stripes.png"
+tapeRepeat="repeat-x"
+caption="This is the events caption"
+icon="icons/blue.png"
+classname="hot_event" >
+In Chatham, at apartment, of heart attack.
+</event>
+
+<event
+start="1990-12-22"
+end="1990-12-22"
+title="Christmas in Orangeville."
+description="Christmas in Orangeville"
+image="images/1990s/thumbs/1990-12-22-xmas-orangeville-helen.png"
+link="images/1990s/fullsized/1990-12-22-xmas-orangeville-helen.png"
+color=" "
+textcolor=" "
+tapeImage="blue_stripes.png"
+tapeRepeat="repeat-x"
+caption="This is the events attribute. "
+icon="icons/blue.png"
+classname="hot_event" >
+at Karin and Juns. At Jun and Karin’s.
+</event>
+
+<event
+start="1991-03-01"
+end="1991-03-01"
+title="Good Question Concert"
+description=" "
+image="images/1990s/thumbs/1991-03b-n13-09_4-gq-concert-12.png"
+link="images/1990s/fullsized/1991-03-01-n13-good-question-concert.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname="hot_event" >
+With Lara and Greg Groen, Brad Davis, Fred Feyen, Paul Vanderkooy. At the Chatham Cultural Center, in the Green room. Michelle kept telling me that some of the Pearson Center were rude and made fun of us, but the CRC crowded appeared to really like it. Greg Groen was a huge mistake: he couldnt play straight.
+</event>
+
+<event
+start="1991-09-21"
+end="1991-09-21"
+title="Polly Vanden Spiegel wedding."
+description="Polly Vandenspiegel gets married."
+image="images/1990s/thumbs/1991-09-21-polly-vandenspiegel-wedding.png"
+link="images/1990s/fullsized/1991-09-21-polly-vandenspiegel-wedding.png"
+color=" blue"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname="hot_event" >
+I videotaped it for her using LPC camcorder probably.
+</event>
+
+<event
+start="1992-02-22"
+end="1992-02-23"
+title="Visit to Chicago, TCC - VIDEO."
+description=" "
+image="images/1990s/thumbs/1992-02-22chicago-tcc300.png"
+link="images/1990s/fullsized/1992-02-22chicago-tcc.png"
+color=" brown"
+textcolor=" brown"
+tapeImage="icons/blue_stripes.png"
+tapeRepeat="repeat-x"
+caption="What does this do? "
+icon="icons/brown.png"
+classname="hot_event" >
+Pretty good video of Bill, Meine, Kathy wandering campus. Engaged with students wandering around. Checked out all the dorms, the new library.
+</event>
+
+<event
+start="1992-07-01"
+end="1992-07-01"
+title="LPC Employment Terminated"
+description="No surprise."
+image="images/1980s/thumbs/1989-06b-n28-lpc-offices-82xx.png"
+link="images/1990s/fullsized/1989-06b-n14-bob-schives.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+A few years later, the staff unionized, and Julie Farrell was eventually dismissed.
+</event>
+
+<event
+start="1992-08-04"
+end="1992-10-31"
+title="Cabaret with Theatre Kent"
+description=" "
+image="images/1990s/thumbs/1992-10-bill-erica-henderson-at-cabaret.png"
+link="images/1990s/fullsized/1992-10-bill-erica-henderson-at-cabaret.png"
+color=" blue"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Laura Callingham, Tom Coatsworth, Steve and Noreen Donnell, Steve Repuski, Stacey Stevenson, Marg Dupuis, Erica Henderson, Scott, Peter, Louis, Candace, and more.
+</event>
+
+<event
+start="1993-06-17"
+end="1993-06-17"
+title="Leonard Cohen - Massey Hall"
+description="Leonard Cohen Concert."
+image="images/1990s/thumbs/leonard_cohen.png"
+link="images/1990s/fullsized/1993-06-17-leonard-cohen.png"
+color=" blue"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+(!) According to Christmas Letter. "We" saw him.
+</event>
+
+<event
+start="1993-07-01"
+end="1993-07-01"
+title="DeZoetes leave Chatham."
+description="Moved to Hamilton."
+image="images/1990s/thumbs/1987-07-beach-port-burwell--dezoetes-douwe.png"
+link="images/1980s/fullsized/1987-07-beach_-port-burwell-dezoetes-douwe"
+color=" blue"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+(!) And move to Hamilton. Reported in 1993 Christmas letter.
+</event>
+
+<event
+start="1993-10-01"
+end="1993-10-01"
+title="Laura Dommaschs Wedding"
+description=" "
+image="images/1990s/thumbs/1993-10a-n08a-laura-wedding300.png"
+link="images/1990s/fullsized/1993-10a-n08a-laura-wedding.png"
+color=" blue"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+(+-) Laura Dommasch married to Brad Chrichton. I video-taped the wedding. Danielle was flower girl. Date from letter is pretty darn close. Dont have exact day yet.
+</event>
+
+<event
+start="1993-12-02"
+end="1993-12-02"
+title="Irene (Vermeer) Bakker died."
+description=" "
+image="images/1990s/thumbs/1992-06a-n10-bakkers-doorway-2.png"
+link="images/1990s/fullsized/1992-06a-n10-bakkers-doorway-2.png"
+color=" black"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/black.png"
+classname=" " >
+Of cancer. There was, for a time, a fervent belief that a "miracle" had happened and she was cured. It came back with a vengeance. She died at home. Sid called the girls in to see her after she died. Thats a detail I remember.
+</event>
+
+<event
+start="1994-05-20"
+end="1994-05-20"
+title="Hired by CH."
+description=" ha"
+image="images/1990s/thumbs/1994-05-bill-and-hazel-scott.png"
+link="images/1990s/fullsized/1994-05--bill-and-hazel-scott-new-staff.png"
+color=" green"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-green-circle.png"
+classname=" " >
+(!) After interview with Don Janzen, then Murray MacKenzie and Noel Churchman. I replaced Ted Robbins as Office Manger. Ted also worked with Xerox managing computers. Ted went full-time facilities, I believe.
+</event>
+
+<event
+start="1994-07-22"
+end="1997-07-13"
+title="1984 Honda Accord."
+description="Added 2nd car for Helen."
+image="images/1990s/thumbs/1994-10-1984accord-malibu.png"
+link="images/1990s/fullsized/1994-10-1984-accord-house-from-street.png"
+color=" orange"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+(!) There is a bw picture from 1997-12 showing 1984 Accord fender damange. Purchased July 22, 1994.
+</event>
+
+<event
+start="1994-07-01"
+end="1999-07-01"
+title="14 Murray Hill Court, Kitchener"
+description=" "
+image="images/1990s/thumbs/1994-06b-n14-new-house-kitchener-1.png"
+link="images/1990s/fullsized/1994-06-bn14new-house-kitchener.jpg"
+color=" brown"
+textcolor=" brown"
+tapeImage="icons/blue_stripes.png"
+tapeRepeat="repeat-x"
+caption=" caption"
+icon="icons/brown.png"
+classname="hot_event" >
+Moved there from Chatham, until move to 11 Ramblewood Way 1999. Lovely house on a court, nice pool for the kids, open field behind us (later filled by a condo). A house we liked a lot, though it was not large. The pool was great. Good neighborhood. Our kids played lots of ball hockey and other games with the neighbors, including Barney, Sarah, Beverly, Yann and Emmanual...
+</event>
+
+<event
+start="1994-08-06"
+end="1994-08-06"
+title="Sean and Melanie."
+description="At Redeemer, I believe. "
+image="images/1990s/thumbs/1994-08-06-sean-melanie300.png"
+link="images/1990s/fullsized/1994-08-06-sean-melanie.png"
+color=" blue"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+I video taped it. Pictures. Including a very pregnant Karin. Alexander must have been born in next few weeks.
+</event>
+
+<event
+start="1994-08-16"
+end="1994-08-16"
+title="Alexander Terado born."
+description="He didnt like my beard."
+image="images/1990s/thumbs/1994-09-alexander-terado.png"
+link="images/1990s/fullsized/1994-09-alexander-terado.png"
+color=" brown"
+textcolor=" brown"
+tapeImage="icons/blue_stripes.png"
+tapeRepeat="repeat-x"
+caption="Alexander Terado"
+icon="icons/brown.png"
+classname="hot_event" >
+(!) Pretty sure. Alexander Terado born, Toronto.
+</event>
+
+<event
+start="1995-03-27"
+end="1995-03-27"
+title="Acquired Sony CCD-F501 Handycam "
+description="Camcorder."
+image="images/1990s/thumbs/sony-ccd-f501.png"
+link="images/1990s/fullsized/1995-03-27-Sony-CCD-F455E-camcorder.png"
+color=" brown"
+textcolor=" brown"
+tapeImage="icons/blue_stripes.png"
+tapeRepeat="repeat-x"
+caption="Camcorder"
+icon="icons/brown.png"
+classname="hot_event" >
+From Rade something. In database.
+</event>
+
+<event
+start="1995-03-25"
+end="1995-03-27"
+title="(!) At Tweed Cottage."
+description="With new Sony Camcorder (used)."
+image="images/1990s/thumbs/1995-03-tweed-cottage-1984-accord.png"
+link="images/1990s/fullsized/1995-03-tweed-cottage-1984-accord.png"
+color=" teal"
+textcolor=" teal"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+Originally labelled 1985 but-- the Honda Accord! Just Helen and I, with new camcorder, I think. Shot river, cottage, town of Tweed. Video with date.
+</event>
+
+<event
+start="1995-12-20"
+end="1995-12-20"
+title="Christmas Party - Van Dyks "
+description="Christmas Party - Van Dyks."
+image="images/1990s/thumbs/1995-12b-n05-xmas-van-dyks-uncle-william-harry.png"
+link="images/1990s/fullsized/1995-12b-n06-23-michael-karen.png"
+color=" brown"
+textcolor=" brown"
+tapeImage="icons/blue_stripes.png"
+tapeRepeat="repeat-x"
+caption="Camcorder. "
+icon="icons/brown.png"
+classname="hot_event" >
+Picture of Michael-- must be my last photo of him.
+</event>
+
+<event
+start="1995-12-31"
+end="1995-12-31"
+title="Skating Victoria Park"
+description="Skating Victoria Park"
+image="images/1990s/thumbs/1995-12-31-skating-victoria-park-van-eekstensens.png"
+link="images/1990s/fullsized/1995-12-31-skating-victoria-park-van-eeks-tensens.png"
+color=" brown"
+textcolor=" brown"
+tapeImage="icons/blue_stripes.png"
+tapeRepeat="repeat-x"
+caption="Camcorder"
+icon="icons/brown.png"
+classname="hot_event" >
+First Christmas - New Years in Kitchener, we went skating at Victoria Park with the Van Eeks and the Tensens. From video, with date on it.
+</event>
+
+<event
+start="1996-04-13"
+end="1996-04-13"
+title="Immigrants Concert."
+description=" music"
+image="images/1990s/thumbs/1996-04-13-immigrants-hamilton.png"
+link="images/1990s/fullsized/1996-04-13-immigrants-hamilton.png"
+color=" pink"
+textcolor=" pink"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+!) Saw the Immigrants perform live in Hamilton I believe, possibly at Redeemer. Paul Hogeterp.
+</event>
+
+<event
+start="1996-08-13"
+end="1996-08-13"
+title="Blue Jays vs Boston."
+description=" music"
+image="images/1990s/thumbs/1996-08-13-blue-jays-boston.png"
+link="images/1990s/fullsized/1996-08-13-blue-jays-boston.png"
+color=" pink"
+textcolor=" pink"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+(!) Went to a Blue Jays game, vs. Boston. This photo is dated accurately.
+</event>
+
+<event
+start="1996-05-20"
+end="1996-05-20"
+title="Aaron and Kim."
+description="weddings"
+image="images/1990s/thumbs/1996-06-08-aaron-kim-wedding.png"
+link="images/1990s/fullsized/1996-06-08-aaron-kim-wedding.png"
+color=" pink"
+textcolor=" pink"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+At Redeemer College. At least, the reception was there. The wedding itself was in a church. Kim later worked at Christian Horizons West District Office for a while, with Monique.
+</event>
+
+<event
+start="1996-05-22"
+end="1996-05-22"
+title="Bare Naked Ladies Concert."
+description=" Music"
+image="images/1990s/thumbs/barenakedladies300.png"
+link="images/1990s/fullsized/barenakedladies.png"
+color=" orange"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+(!) - Centre in the Square. From calendar, saw Bare Naked Ladies with kids at Center in the Square. Note the relative address for full-sized image works!
+</event>
+
+<event
+start="1996-05-30"
+end="1996-05-30"
+title="Nikki II."
+description=" pets"
+image="images/1990s/thumbs/1996-06a-n13-nikki.png"
+link="images/1990s/fullsized/1996-06a-n13-nikki.png"
+color=" pink"
+textcolor=" pink"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+(!) We obtained the dog from Otto at LHCS, nice guy. After a time, we found the kids couldnt really handle him-- besides, he peed everytime I just looked at him and opened my mouth-- so we brought him to the pound. Sadly.
+</event>
+
+<event
+start="1996-06-06"
+end="1997-06-06"
+title=" Camry."
+description=" cars."
+image="images/1990s/thumbs/1997-03b-n33-malibu-camry.png"
+link="images/1990s/fullsized/1997-03b-n33-malibu-camry.png"
+color=" orange"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-green-circle.png"
+classname=" " >
+(!) The Camry replaced the Malibu, not the 1984 Accord. Few pictures of it. The engine caught fire on the way home from CH one day; we had it towed and disposed of, I believe. We replaced it with the 1987 4Runner.
+</event>
+
+<event
+start="1996-09-14"
+end="1996-09-14"
+title="Jennifer and Bob."
+description="weddings"
+image="images/1990s/thumbs/1996-09-14-Jennifer-and-Bob-Juhlke-wedding-portrait300.png"
+link="images/1990s/fullsized/1996-09-14-Jennifer-and-Bob-Juhlke-wedding-portrait.png"
+color=" pink"
+textcolor=" pink"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+(!) Jennifer and Bob married in Niagara Falls.
+</event>
+
+<event
+start="1996-09-21"
+end="1996-09-21"
+title="Bills 40th."
+description=" parties"
+image="images/1990s/thumbs/1996-08b-n11-party-bill-shirley-huinink300.png"
+link="images/1990s/fullsized/1996-08b-n11-party-bill-shirley-huinink.png"
+color=" pink"
+textcolor=" pink"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+(!) Bills 40th birthday party, Kitchener. Lots of guests. Maybe last time that kind of gathering in my honor!
+</event>
+
+<event
+start="1997-01-01"
+end="1998-12-31"
+title="Paul played with BM2."
+description=" "
+image="images/1990s/thumbs/1997-00-00--paul-bm2-n0018.png"
+link="images/1990s/fullsized/1997-00-00--paul-bm2-n0018.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+, Bruce somethings jazz combo. Usually rehearsed at University of Guelph, where we drove him in 4Runner, then waited at coffee shop.Progressive jazz band that played around town occasionally. Tribute to.. Duke Ellington, I think. Date is informed guess.
+</event>
+
+<event
+start="1997-02-02"
+end="1997-02-02"
+title="Skiing Collingwood"
+description=" Sports"
+image="images/1990s/thumbs/1997-02b-n24-chris-danielle-paul-collingwood.png"
+link="images/1990s/fullsized/1997-02b-n24-chris-danielle-paul-collingwood.png"
+color=" maroon"
+textcolor=" maroon"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/maroon.png"
+classname=" " >
+Two sets of ski pictures, same outfits-- were there two trips that year? Seems like it.
+</event>
+
+<event
+start="1997-03-10"
+end="1997-03-10"
+title="Christopher in School Play."
+description="Christopher acted in LHCS school play."
+image="images/1990s/thumbs/1997-03b-n02-christopher-play.png"
+link="images/1990s/fullsized/1997-03b-n02-christopher-play.png"
+color=" orange"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+(!) I believe we have a video.
+</event>
+
+<event
+start="1997-03-14"
+end="1997-03-14"
+title="Skiing Collingwood"
+description=" Sports"
+image="images/1990s/thumbs/1997-03a-n18-ski-trip-danielle.png"
+link="images/1990s/fullsized/1997-03a-n18-ski-trip-danielle.png"
+color=" maroon"
+textcolor=" maroon"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/maroon.png"
+classname=" " >
+Two sets of ski pictures, same outfits-- were there two trips that year? Seems like it. Pauls poles are different in the second set, so probably. Unless that was the time he dropped them from the lift.
+</event>
+
+<event
+start="1997-04-01"
+end="1997-04-01"
+title="Ayden Schat Born."
+description=" births"
+image="images/1990s/thumbs/1997-08-04-ayden-schat10.png"
+link="images/1990s/fullsized/1997-08-04-ayden-schat10.png"
+color=" maroon"
+textcolor=" maroon"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/maroon.png"
+classname=" " >
+To Sean and Melanie.
+</event>
+
+<event
+start="1997-06-23"
+end="2005-07-13"
+title="4Runner."
+description="It replaced the Camry. "
+image="images/1990s/thumbs/1997-07-nova-scotia_4runner.png"
+link="images/1990s/fullsized/1998-12b-n24-dec-97-accident-4runner.png"
+color=" orange"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+(!) We had acquired the Camry earlier to replace Malibu. Start date pretty good. There is a photo of the 4Runner with the 1984 Accord, then, AFTER, the Camry. So the Camry replaced the Malibu by 1996-06. We kept the Malibu for a while to try to sell it but nobody wanted it, so we junked it. The Camry caught fire and the 4Runner replaced it. But 1997-06 film set shows 4Runner WITH the Accord, then ten frames later, the Camry in Paris, which, I think was about when we bought it.
+</event>
+
+<event
+start="1997-07-06"
+end="1997-07-13"
+title="Vacation in Nova Scotia"
+description=" "
+image="images/1990s/thumbs/1997-07-nova-scotia034.png"
+link="images/1990s/fullsized/1997-07-nova-scotia-pentex-whale-watching-30009.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+Including Bay of Fundy, Halifax, Cape Breton, and PEI. with Paul, Christopher, Danielle. Not exact dates here. We did go whale-watching twice. The second time whale-watching with a kind of crazy guy in a smaller inflatable, pontoon boat, with a German couple and their daughter. Quite the experience, actually.
+</event>
+
+<event
+start="1997-11-01"
+end="1997-11-01"
+title="Crucible at Eastwood."
+description="Paul in Crucible at Eastwood."
+image="images/1990s/thumbs/1997-11crucible-eastwood300.png"
+link="images/1990s/fullsized/1997-11crucible-eastwood.png"
+color=" blue"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+(!) Crucible at Eastwood. In Calendar. Paul was in it, not sure which character And he might have been the male lead. Photos are generic, snagged from internet.
+</event>
+
+<event
+start="1997-12-23"
+end="1997-12-23"
+title="Nikki still there."
+description="When did we get rid of him?"
+image="images/1990s/thumbs/1997-12a-n22-nikki-eats-kleenex300.png"
+link="images/1990s/fullsized/1997-12a-n22-nikki-eats-kleenex.png"
+color=" blue"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+From pictures.
+</event>
+
+<event
+start="1997-12-01"
+end="1997-12-01"
+title="New Study."
+description=" house."
+image="images/1990s/thumbs/1997-12-move-study-painting.png"
+link="images/1990s/fullsized/1997-12-move-study-painting.png"
+color=" blue"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray.png"
+classname=" " >
+So Paul could have old study as bedroom. Also, space for new desk.
+</event>
+
+<event
+start="1997-12-28"
+end="1997-12-28"
+title="Skiing at Mount St. Louis Moonstone."
+description=" Skiing"
+image="images/1990s/thumbs/1997-12-00-n24b-mount-st-louis-moonstone.png"
+link="images/1990s/fullsized/1997-12-00-n24b-mount-st-louis-moonstone.png"
+color=" blue"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+From pictures. Danielle got lost and it took hours to find her.
+</event>
+
+<event
+start="1998-05-01"
+end="1998-05-01"
+title="Danielle short hair."
+description=" house."
+image="images/1990s/thumbs/1997-12-move-study-painting.png"
+link="images/1990s/fullsized/1997-12-move-study-painting.png"
+color=" blue"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray.png"
+classname=" " >
+Photos at Champlain Lake show short hair, but May 1998 shows long. Resolve.
+</event>
+
+<event
+start="1998-05-01"
+end="2006-01-01"
+title="Paul dating Joanne."
+description=" pets."
+image="images/1990s/thumbs/1998-05-00b-n24a-joanne-gandi.png"
+link="images/1990s/fullsized/1998-05-00b-n24a-joanne-gandi.png"
+color=" blue"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+(!) Paul was dating Joanne at this time.
+</event>
+
+<event
+start="1998-05-01"
+end="2006-01-01"
+title=" Gandi."
+description=" pets."
+image="images/1990s/thumbs/1998-05b-n23-gandi-howling-054.png"
+link="images/1990s/fullsized/1998-05b-n23-gandi-howling-054.png"
+color=" blue"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+(!) Dated picture of him in the little basket. Christopher bought him with his own money from a place in Harriston, I think, where he and I picked him up. Date we had him put down is not at all precise.
+</event>
+
+<event
+start="1998-07-14"
+end="1998-07-14"
+title=" Pool."
+description="vacations."
+image="images/1990s/thumbs/1998-07-pool-04.png"
+link="images/1990s/fullsized/1998-07-pool-04.png"
+color=" blue"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+Cool picture with waterproof camera.
+</event>
+
+<event
+start="1998-10-06"
+end="1998-10-06"
+title="Steve and Noemi."
+description=" "
+image="images/1990s/thumbs/1998-10a-n10-steve-noemis-wedding-15.png"
+link="images/1990s/fullsized/1998-10a-n10-steve-noemis-wedding-15.png"
+color=" pink"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+Wedding at Niagara-on-the-Lake, in Courthouse Theatre.
+</event>
+
+<event
+start="1998-03-14"
+end="1998-03-14"
+title="Aafkes 75th Birthday"
+description=" "
+image="images/1990s/thumbs/1998-10a-n10-steve-noemis-wedding-15.png"
+link="images/1990s/fullsized/1998-10a-n10-steve-noemis-wedding-15.png"
+color=" pink"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+Thus she was born in 1923, March 14.
+</event>
+
+<event
+start="1998-01-15"
+end="1998-01-15"
+title="Accident at Schwaben with 4Runner."
+description=" ."
+image="images/1990s/thumbs/1998-12b-n24-dec-97-accident-4runner.png"
+link="images/1990s/fullsized/1998-12b-n24-dec-97-accident-4runner.png"
+color=" orange"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+While picking up Paul. I was allegedly at fault but witnesses and I believe the car was speeding coming over a curvy hill. Dated according to back of photo.
+</event>
+
+<event
+start="1998-01-01"
+end="1998-01-01"
+title="Nikki II brought to pound."
+description=" pets."
+image="images/1990s/thumbs/1997-12a-n23-nikki-sitting.png"
+link="images/1990s/fullsized/1997-12a-n23-nikki-sitting.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray-circle.png"
+classname=" " >
+(?) No realy data here. Are there any pictures after this date with Nikki in them?
+</event>
+
+<event
+start="1998-07-06"
+end="1998-07-14"
+title="Camping Lake Champlain."
+description="vacations."
+image="images/1990s/thumbs/1998-07b-n06-lake-champlain-flying.png"
+link="images/1990s/fullsized/1998-07b-n06-lake-champlain-flying.png"
+color=" teal"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+Vacation at Lake Champlain, Ontario.
+</event>
+
+<event
+start="1998-08-01"
+end="1998-08-01"
+title="Big Van Dyk reunion Queenston."
+description=" family"
+image="images/1990s/thumbs/1998-08b-n24a-065-van-dyk-reunion300.png"
+link="images/1990s/fullsized/1998-08b-n24a-065-van-dyk-reunion.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray-circle.png"
+classname=" " >
+Big gathering at Queenston with extended Van Dyk families. Did not repeat it.
+</event>
+
+<event
+start="1999-01-01"
+end="2005-02-28"
+title="1999 Accord"
+description=" Cars."
+image="images/2000s/thumbs/2002-07-nfld1999accord300.png"
+link="images/2000s/fullsized/2002-07-nfld1999accord.png"
+color=" teal"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+1999 Accord - leased from Honda. Date uncertain, but it was new. Leased new from dealership. DX model. After Christophers accident, replaced it with a more luxurious 2001 Accord EX.
+</event>
+
+<event
+start="1999-03-01"
+end="1999-03-01"
+title="Acquired IKEA desk from CH."
+description=" M"
+image="images/1990s/thumbs/1999-03a-n21-new-desk-bill-study.png"
+link="images/1990s/fullsized/1999-03a-n21-new-desk-bill-study.png"
+color=" "
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray.png"
+classname=" " >
+The deal, negotiated by Cathleen, turned all our old furniture in for the new, ugly dark re stuff. I persuaded the furniture dealer in Cambridge to sell me back the IKEA desk for what what they got for it, something like $120. I doubt they really wanted it anyway.
+</event>
+
+<event
+start="1999-03-01"
+end="1999-03-01"
+title="20 Dollars."
+description=" M"
+image="images/1990s/thumbs/1999-03a-n21-new-desk-bill-study.png"
+link="images/1990s/fullsized/1999-03a-n21-new-desk-bill-study.png"
+color=" "
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/black.png"
+classname=" " >
+Cash. Danielle is 15.
+</event>
+
+<event
+start="1999-07-01"
+end="2012-12-31"
+title="Moved to 11 Ramblewood Way."
+description=" M"
+image="images/2000s/thumbs/2005-03-2001-accord.png"
+link="images/1990s/fullsized/1999-07-n03-dezoetes-visit-new-house.png"
+color=" "
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray.png"
+classname=" " >
+We hired Mikes movers, but they vastly underestimated amount of work and we were still moving late into the night. Mortgage paid off February 2012.
+</event>
+
+<event
+start="1999-11-17"
+end="1999-11-17"
+title="Uncle William Bol died in Holland."
+description="William Bol died."
+image="images/1990s/thumbs/1940-06-Piet-Maartje-Dan-Opa-Wim-Bol-Rockanje.png"
+link="images/1990s/fullsized/1940-06-Piet-Maartje-Dan-Opa-Wim-Bol-Rockanje.png"
+color=" "
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-green-circle.png"
+classname=" " >
+(!) Mom went to Holland to be with him at the end. He was 80 years old.
+</event>
+
+<event
+start="1999-11-27"
+end="1996-05-20"
+title="Cowboy Junkies at Riverrun, Guelph."
+description=" M"
+image="images/1990s/thumbs/1999-11-27-danielle-sara-margot.png"
+link="images/1990s/fullsized/1999-11-27-danielle-sara-margot.png"
+color=" "
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray.png"
+classname=" " >
+(!) With Sara Kraft, Danielle. Had pictures taken with Margo Timmins afterwards.
+</event>
+
+<event
+start="1999-11-27"
+end="1999-11-27"
+title="Margo Timmins."
+description=" M"
+image="images/1990s/thumbs/1999-11-27-bill-19-margo.png"
+link="images/1990s/fullsized/1999-11-27-bill-19-margo.png"
+color=" "
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray.png"
+classname=" " >
+(!) In 1990, she was listed as one of the 50 most beautiful people in the world. Yes, thats me!
+</event>
+
+<event
+start="2000-05-14"
+end="2000-05-17"
+title="Cohen Event - Montreal."
+description=" art"
+image="images/2000s/thumbs/2000-05-14-cohen-event.png"
+link="images/2000s/fullsized/2000-05-14-cohen-event.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Which brought an end to my participation in the Cohen newsgroup.
+</event>
+
+<event
+start="2000-02-06"
+end="2000-02-06"
+title="Paul paints a Mona Lisa."
+description=" art"
+image="images/2000s/thumbs/2000-02-n01-paul-mona-lisa-2.png"
+link="images/2000s/fullsized/2000-02-n01-paul-mona-lisa-2.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray.png"
+classname=" " >
+As a project for an art class, Paul paints a copy of the Mona Lisa, on same size board, same materials.
+</event>
+
+<event
+start="2000-02-06"
+end="2000-02-06"
+title="Ski trip."
+description=" art"
+image="images/2000s/thumbs/2000-02-11-n22-ski-trip-05.png"
+link="images/2000s/fullsized/2000-02-11-n22-ski-trip-05.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray.png"
+classname=" " >
+Several pictures, 4Runner included.
+</event>
+
+<event
+start="2000-07-06"
+end="2000-07-31"
+title="Vacation in BC."
+description="Including Vancouver, Tofino, Vernon."
+image="images/2000s/thumbs/2000-07-07-bc-vacation-042.png"
+link="images/2000s/fullsized/2000-07-07-bc-vacation-042.png"
+color=" teal"
+textcolor=" teal"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+With Christopher and Danielle, in the 4Runner. The transmission blew around Moose Jaw and we had to spend a night or two in a motel waiting for repairs. We went all the way to Tofino, stopping off to see Al and Theresa, and Karin and Jun. Paul stayed home to attend to a job and gigs. We generally camped along the way, including a cold night in the mountains.
+</event>
+
+<event
+start="2001-03-12"
+end="2001-03-12"
+title="Paul and Kayla"
+description=" Trips."
+image="images/2000s/thumbs/2001-03-kayla-paul.png"
+link="images/2000s/fullsized/2001-03-kayla-paul.png"
+color=" gray"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray.png"
+classname=" " >
+Shortly afterwards... was this after Joanna? I think so.
+</event>
+
+<event
+start="2001-06-09"
+end="2001-06-09"
+title="Julianne and Steve Wedding"
+description=" Wedding"
+image="images/2000s/thumbs/2001-06-09-steve-julianne-wedding.png"
+link="images/2000s/fullsized/2001-06-09-steve-julianne-wedding.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Shot with vx-2000, TRV-900 sennheiser wireless mics, with Jim Van Elswyk on second camera.
+</event>
+
+<event
+start="2002-04-01"
+end="2002-04-02"
+title="Tree fell over in back yard."
+description=" House."
+image="images/2000s/thumbs/2002-04-n10tree-falls-over300.png"
+link="images/2000s/fullsized/2002-04-n10tree-falls-over.png"
+color=" orange"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/yellow.png"
+classname=" " >
+(!) It was shortly afterwards that we planted the blue spruce and the kids gave us the Japanese Maple in the front. Use for dating.
+</event>
+
+<event
+start="2002-06-01"
+end="2008-07-13"
+title="1998 Honda Civic."
+description=" Car."
+image="images/2000s/thumbs/2007-05-1998-civic.png"
+link="images/2000s/fullsized/2006-1998-civic.png"
+color=" orange"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+Basically, acquired to replace 4Runner, but we kept 4Runner for some time for Paul and for general use as 3rd car until the clutch finally blew near Van Eeks house, I believe. Eventually, Paul assumed ownership of the Civic as he moved to Montreal. A mechanic there convinced him to have the timing belt replaced without him asking us-- we had just replaced it before giving him the car.
+</event>
+
+<event
+start="2002-07-01"
+end="2002-07-13"
+title="Vacation in Newfoundland."
+description="Vacations."
+image="images/2000s/thumbs/2002-07-nfld090.png"
+link="images/2000s/fullsized/2002-07-nfld108.png"
+color=" teal"
+textcolor=" teal"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+First trip to Newfoundland. We toured Gros Morne and St. Johns, camping mostly. We did stay in a nice cabin in Twillingate, for a very reasonable amount.
+</event>
+
+<event
+start="2002-09-24"
+end="2002-09-24"
+title="Blue Jays Game - Baltimore."
+description=" Events."
+image="images/2000s/thumbs/2002-09-24-blue-jays-baltimore.png"
+link="images/2000s/fullsized/2002-09-24-blue-jays-baltimore.png"
+color=" teal"
+textcolor=" teal"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+(!) From ticket! Blue Jays Game, three of us. Probably me, Paul,and Danielle.
+</event>
+
+<event
+start="2003-01-05"
+end="2003-01-05"
+title="Rose and Ed Heida."
+description="weddings"
+image="images/2000s/thumbs/2003-01-05-ed-and-rose-wedding.png"
+link="images/2000s/fullsized/2003-01-05-ed-and-rose-wedding.png"
+color=" pink"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+I did the video for them. Roses dad did not like having a video of the wedding. I think he thought it was somewhat sacriligeous.
+</event>
+
+<event
+start="2003-07-12"
+end="2003-07-19"
+title="Manitoulin Cottage."
+description="Vacations."
+image="images/2000s/thumbs/2003-07-02-manitoulin-island-paul.png"
+link="images/2000s/fullsized/2003-07-02-manitoulin-island-paul.png"
+color=" teal"
+textcolor=" teal"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+(^) With all three kids. Very nice private beach. Great ice cream at Facquars.
+</event>
+
+<event
+start="2003-06-01"
+end="2003-06-01"
+title="Bierman."
+description="friends."
+image="images/2000s/thumbs/2003-06-16-biersma.png"
+link="images/1990s/fullsized/2003-06-16-biersma.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-green-circle.png"
+classname=" " >
+Notes here. Some time around here.
+</event>
+
+<event
+start="2003-07-13"
+end="2003-07-13"
+title="Circular anomaly on Tongue."
+description=" health"
+image="images/2000s/thumbs/2003-07-13-tongue.png"
+link="images/2000s/fullsized/2003-07-13-tongue.png"
+color=" gray"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+It did take until December for surgery. When was surgery exactly?
+</event>
+
+<event
+start="2003-08-10"
+end="2003-08-10"
+title="Met Yvette Hamerlinck."
+description=" health"
+image="images/2000s/thumbs/2003-08-10-met-yvette.png"
+link="images/2000s/fullsized/2003-08-10-met-yvette.png"
+color=" blue"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/blue.png"
+classname=" " >
+At Fred and Hennies.
+</event>
+
+<event
+start="2003-07-18"
+end="2003-07-18"
+title="Steve and Nicole."
+description="weddings"
+image="images/2000s/thumbs/2003-07-18-nicole-steve-wedding-rehearsal.png"
+link="images/2000s/fullsized/2003-07-18-nicole-steve-wedding-rehearsal.png"
+color=" pink"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+I did the video for them, which was one of my better ones, I believe.
+</event>
+
+<event
+start="2004-03-25"
+end="2004-03-25"
+title="Saw Nellie McKay in Toronto at El Mocambo."
+description=" "
+image="images/2000s/thumbs/2004-06-n03nellie-mckay-lees-palace300.png"
+link="images/2000s/fullsized/2004-06-n03nellie-mckay-lees-palace.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+(!) Saw Nellie McKay in Toronto, for the second time (certain). Exact date, from Review on Canoe. Lara was there, with Danielle probably, as was Johan De Zoete, and some others I think. Very funny and entertaining. We went again shortly afterwards to see her at Lees Palace with Helen. Cant find exact date for that. The photo is from the Lees Palace show we saw in June.
+</event>
+
+<event
+start="2004-07-11"
+end="2004-07-25"
+title="Trip to New Brunswick."
+description=" health"
+image="images/2000s/thumbs/2004-08-n07-new-brunswick-caraquet.png"
+link="images/2000s/fullsized/2004-08-n07-new-brunswick-caraquet.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+(^) dates approximate. Really enjoyed Caraquet, a sort of Black Creek Pioneer Village, but better. Barrel makers, cloth, blacksmiths, etc.
+</event>
+
+<event
+start="2004-08-07"
+end="2004-08-07"
+title="Jonathan and Yvette married"
+description="Weddings."
+image="images/2000s/thumbs/2004-08-07-n21jon-yvette-wedding300.png"
+link="images/2000s/fullsized/2004-08-07-n21jon-yvette-wedding.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/green.png"
+classname=" " >
+(!) , Port Perry, Ontario. I shot wedding video. What is exact date? 2004-08-07!
+</event>
+
+<event
+start="2004-08-14"
+end="2004-08-14"
+title="Johan and Rhoda married Dundas, Ontario."
+description="Weddings."
+image="images/2000s/thumbs/2004-08-14-n08-rhoda-johan-wedding.png"
+link="images/2000s/fullsized/2004-08-14-n08-rhoda-johan-wedding.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/green.png"
+classname=" " >
+I shot wedding video. I also sang, "Im Your Man", I think, with Matthew and Johan.
+</event>
+
+<event
+start="2004-08-26"
+end="2004-08-26"
+title="Blue Rodeo at Ontario Place."
+description=" "
+image="images/2000s/thumbs/2004-08-14-blue-rodeo.png"
+link="images/2000s/fullsized/2004-08-14-n17.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Ran into Rick and Stacey who were also there. Dated picture.
+</event>
+
+<event
+start="2004-12-01"
+end="2004-12-01"
+title="Last Film Shot!."
+description=" health"
+image="images/2000s/thumbs/200412n22-last-film-shot.png"
+link="images/2000s/fullsized/200412n22-last-film-shot.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Shot with my Nikon FG. Cant find negatives for after this date. Actually, quite sure there are other pictures later.
+</event>
+
+<event
+start="2004-12-11"
+end="2004-12-11"
+title="Gandi in the snow."
+description=" health"
+image="images/2000s/thumbs/2004-12-11-gandi.png"
+link="images/2000s/fullsized/2004-12-11-gandi.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Reminder of the thousands of times we are greeted by this ediface.
+</event>
+
+<event
+start="2005-02-01"
+end="2005-02-01"
+title="Christophers Accident: 1999 Accord."
+description="Car totalled."
+image="images/2000s/thumbs/2005-02-23-christopher-totals-car.jpg"
+link="images/2000s/fullsized/2005-02-23-christopher-totals-car.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/green.png"
+classname=" " >
+(!) Christopher had an accident with the Accord. While leaving Teutech, not his fault. Accord was totalled and we replaced it with a 2001 Accord EX, much nicer options.
+</event>
+
+<event
+start="2005-03-03"
+end="2005-03-03"
+title="2001 Accord to replace leased 1999 Accord DX."
+description=" cars"
+image="images/2000s/thumbs/2005-03-00-2001-accord.png"
+link="images/2000s/fullsized/2005-03-00-2001-accord.JPG"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/green.png"
+classname=" " >
+Bought used from someone in new subdivision north-west of here.
+</event>
+
+<event
+start="2005-05-30"
+end="2005-05-30"
+title="Danielle buys 1998 Toyota Corolla."
+description=" "
+image="images/2000s/thumbs/2008-07-19-1998-corolla.png"
+link="images/2000s/fullsized/2008-07-19-1998-corolla.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+(!) Danielle gets her first car, a 1998 Toyota Corolla. Christopher works at Teutech, Guelph.
+</event>
+
+<event
+start="2005-06-30"
+end="2005-07-04"
+title="New York City - Paul and Danielle."
+description="Sinister conspiracy to deceive us all."
+image="images/2000s/thumbs/2005-06-30-new-york.png"
+link="images/2000s/fullsized/2005-06-30-new-york.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+We did the bus tour, which was actually fun-- we had a good guide. Then a boat tour around Manhattan island. Greenwich village, WTC, Central Park where we found Lennons memorial. Danielle had to return something to someone in New York and she and Paul courageously went off by themselves via subway to do that, then met us at Macys on 34th Street later.
+</event>
+
+<event
+start="2005-12-19"
+end="2005-12-19"
+title="Skiing in Collingwood."
+description=" sports."
+image="images/2000s/thumbs/2005-12-19skiing-collingwood300.png"
+link="images/2000s/fullsized/2005-12-19skiing-collingwood.png"
+color=" blue"
+textcolor=" blue"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+(!) Skiiing in Collingwood - I took video. With Paul, Danielle, and Christopher.
+</event>
+
+<event
+start="2005-12-23"
+end="2005-12-23"
+title="Maartje Van Dyk died in Grimsby."
+description=" "
+image="images/2000s/thumbs/2005-12-23-maartje-van-dyk-died-grimsby.png"
+link="images/2000s/fullsized/2005-12-23-maartje-van-dyk-died-grimsby.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+I visited her shortly before, as she was essentially in a coma. I had also come back early from a course in Ottawa to do so, through terrible traffic and weather. Photo was taken on December 15th.
+</event>
+
+<event
+start="2006-02-24"
+end="2006-02-24"
+title="Matthew and Joanne Wedding."
+description="Description."
+image="images/2000s/thumbs/2006-02-24-matthew-joanne-wedding.png"
+link="images/2000s/fullsized/2006-02-24-matthew-joanne-wedding.png"
+color=" brown"
+textcolor=" brown"
+tapeImage="icons/blue_stripes.png"
+tapeRepeat="repeat-x"
+caption="What does this do? "
+icon="icons/brown.png"
+classname="hot_event" >
+(!) At the Royal Botanical Gardens, indoors. Jaw-dropping cleavage by Joanne.
+</event>
+
+<event
+start="2006-07-13"
+end="2006-07-14"
+title="Vacation in Boston."
+description="Description."
+image="images/2000s/thumbs/20060713-boston.png"
+link="images/2000s/fullsized/2006-07-13-boston.jpg"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+Actually, to a motel in a small town north of Boston, York Beach, at Cutty Sark Hotel. Best part was a visit to Salem, where actors recreated, on the street, and then the courthouse, a witch capture and trial. Also went to Boston Acquarium.
+</event>
+
+<event
+start="2006-08-12"
+end="2006-08-12"
+title="Sarah and Bryan Wedding."
+description=" "
+image="images/2000s/thumbs/2006-08-12-Sarah-Bryan-wedding.png"
+link="images/2000s/fullsized/2006-08-12-Sarah-Bryan-wedding.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+In Port Elgin? Marriage fell apart, not unexpectedly. His Uncle gave the rudest most vulgar wedding reception speech I have ever heard.
+</event>
+
+<event
+start="2006-09-22"
+end="2006-09-22"
+title="Adam and Cathenia Wedding."
+description=" "
+image="images/2000s/thumbs/2006-09-22-adam-cathenia-wedding.png"
+link="images/2000s/fullsized/2006-09-22-adam-cathenia-wedding.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+(!) It rained quite a bit during this outdoor ceremony in a park but Cathenia was determined to not move indoors. The minister actually asked for a miracle-- stop the rain! And it started raining harder.
+</event>
+
+<event
+start="2002-02-27"
+end="2002-02-27"
+title="The End of the 4Runner."
+description="Description."
+image="images/2000s/thumbs/2007-02-27-last-of-4runner.png"
+link="images/2000s/fullsized/2007-02-27-last-of-4runner.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+(!) The end of the 4Runner. Clutch, I think, blew out. Too many other problems (especially tailgate, window, etc.) to justify further investment.
+</event>
+
+<event
+start="2007-03-02"
+end="2007-03-02"
+title="Peter Paul and Mary at Roy Thompson Hall."
+description=" "
+image="images/2000s/thumbs/2007-03-02-peter-paul-and-mary-thompson-hall-to.png"
+link="images/2000s/fullsized/2007-03-02-peter-paul-and-mary-thompson-hall-to.png"
+color=" brown"
+textcolor=" brown"
+tapeImage="icons/blue_stripes.png"
+tapeRepeat="repeat-x"
+caption="Furniture"
+icon="icons/brown.png"
+classname="hot_event" >
+Peter Paul and Mary at Roy Thompson Hall. Concert at Roy Thomson Hall with Peter Paul and Mary.
+</event>
+
+<event
+start="2007-07-12"
+end="2007-07-12"
+title="Joan of Arc at Shaw."
+description="Joan of Arc at Shaw."
+image="images/2000s/thumbs/2007-07-12-port-dalhousie-shaw.png"
+link="images/2000s/fullsized/2007-07-12-port-dalhousie-shaw.png"
+color=" brown"
+textcolor=" brown"
+tapeImage="icons/blue_stripes.png"
+tapeRepeat="repeat-x"
+caption=" Joan of Arc"
+icon="icons/brown.png"
+classname="hot_event" >
+Brilliant production. Date not certain. But probably close.
+</event>
+
+<event
+start="2007-05-01"
+end="2007-05-01"
+title="New Oak Kitchen Table."
+description="Event Template."
+image="images/2000s/thumbs/2008-03-00-schat-gathering-our-house-wtf.png"
+link="images/fullsized/2008-03-00-schat-gathering-our-house-wtf.png"
+color=" brown"
+textcolor=" brown"
+tapeImage="icons/blue_stripes.png"
+tapeRepeat="repeat-x"
+caption="New Oak Table"
+icon="icons/dark-green-circle.png"
+classname="hot_event" >
+New table and chairs, bought by Helen from want ads, with chairs. Very nice. About $600 if I remember correctly.
+</event>
+
+<event
+start="2007-08-11"
+end="2007-08-11"
+title="Sid and Patti Wedding."
+description=" "
+image="images/2000s/thumbs/2007-08-11-sid-patti-wedding.png"
+link="images/2000s/fullsized/2007-08-11-sid-patti-wedding.png"
+color=" pink"
+textcolor=" pink"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+(!) exact dates. I set them up together. One of the daughters, I believe the second one, gave a very inappropriate speech at the reception, joking about catching them in delecti on the couch one night.
+</event>
+
+<event
+start="2007-08-24"
+end="2007-08-24"
+title="Lara and Jeremy wedding."
+description=" "
+image="images/2000s/thumbs/2007-08-24-lara-jeremy-wedding.png"
+link="images/2000s/fullsized/2007-08-24-lara-jeremy-wedding.png"
+color=" pink"
+textcolor=" pink"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+(!) exact dates.
+</event>
+
+<event
+start="2007-10-02"
+end="2007-10-09"
+title="Helen donates kidney."
+description=" "
+image="images/2000s/thumbs/2007-10-02-kidney-st-mikes.png"
+link="images/2000s/fullsized/2007-10-02-kidney-st-mikes.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+At St. Michaels in Toronto. One week recovery. Recovery took longer than expected-- about a week. Recipient doing well.
+</event>
+
+<event
+start="2008-07-20"
+end="2008-08-04"
+title="Trip to BC with Al and Ann."
+description="Ending on Vancouver Island at Karins birthday party near Comox."
+image="images/2000s/thumbs/2007-07-21-bc-vacation.png"
+link="images/2000s/fullsized/2008-07-23bc-trip.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+(!) Dates from pictures - July 20 to August 4. There was a bizarre incident with one of Karins close friends-- an inappropriate kiss or something, and an allusion to lesbianesque desire. We rented a very nice vehicle in Calgary, with a GPS, and returned from Victoria. I drove most of the time because Ann didnt trust Als driving.
+</event>
+
+<event
+start="2007-11-18"
+end="2012-12-01"
+title="2004 Corolla"
+description="Replacement for the CIVIC which we sold to Paul."
+image="images/2000s/thumbs/2007-11-18-2004-corolla-purchased.png"
+link="images/2000s/fullsized/2007-11-18-2004-corolla-purchased.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+(!) Exact date: photo in lot. Purchased 2004 Corolla from Carimex in Kitchener.
+</event>
+
+<event
+start="2008-01-02"
+end="2008-01-02"
+title="Paul moves to Montreal."
+description="Paul moves to Montreal"
+image="images/2000s/thumbs/2008-01paul_montreal.png"
+link="images/2000s/fullsized/2008-01paul_montreal.png"
+color=" pink"
+textcolor=" pink"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+(?) not exact dates yet. He drove his car and I drove the van, I believe. Lots of snow. Laetitias friends didnt arrive for a few hours but they were very fast and efficient when they did. In the meantime, I killed myself hauling boxes up three flights of stairs!
+</event>
+
+<event
+start="2008-01-05"
+end="2008-01-05"
+title="Seems to be the date of the meeting."
+description="Narcissism in full flight."
+image="images/2000s/thumbs/2009-07-20-401-return-from-nfld.png"
+link="images/2000sfullsized/2009-07-20-401-return-from-nfld.png"
+color=" pink"
+textcolor=" pink"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+From an email, seems to be the exact frigid date for that frigid and the balmy.
+</event>
+
+<event
+start="2008-03-15"
+end="2008-03-15"
+title=" "
+description=" "
+image="images/2000s/thumbs/2008-03-15-schats-party-here.png"
+link="images/2000s/fullsized/2008-03-15-schats-party-here.png"
+color=" pink"
+textcolor=" pink"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+Schat gathering at our house. Photos are dated! So.... explain please. WTF. Schat gathering at our house. Yes we did. When exactly did I have my meeting with L? January 5, it appears.
+</event>
+
+<event
+start="2008-06-02"
+end="2008-06-02"
+title="Leonard Cohen Concert, Kitchener"
+description=" music."
+image="images/2000s/thumbs/2008-06-02-cohen-concert.png"
+link="images/2000s/fullsized/2008-06-02-cohen-concert.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/maroon.png"
+classname=" " >
+Saw Leonard Cohen at Center in the Square with Fred, Henny, Sid Hielema and his wife.
+</event>
+
+<event
+start="2008-08-23"
+end="2008-08-23"
+title="Becki and Jason."
+description="Weddings."
+image="images/2000s/thumbs/2008-08-23-becki-jason-wedding.png"
+link="images/2000s/fullsized/2008-08-23-becki-jason-wedding.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/maroon.png"
+classname=" " >
+(!) Married in Grimsby area, at an outdoor park. Hot. Reception in adjacent building.
+</event>
+
+<event
+start="2009-01-01"
+end="2009-01-01"
+title=" Sarge."
+description=" "
+image="images/2000s/thumbs/2009-01-sarge-helen.png"
+link="images/2000s/fullsized/2009-01-sarge-helen.png"
+color=" gray"
+textcolor=" gray"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray.png"
+classname=" " >
+(!) exact date. Susannah bought him for Christopher against our advice. When they split up, Susannah wanted him but Christopher was pleased to prevail on that issue.
+</event>
+
+<event
+start="2009-03-12"
+end="2009-03-15"
+title="Trip to Washington DC."
+description="Touristy."
+image="images/2000s/thumbs/2009-03-12-washington-dc-white-house.png"
+link="images/2000s/fullsized/2009-03-12-washington-dc-white-house.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+We went to the Holocaust Museum, the Smithsonian, White House (couldnt get in though) the Senate Office Building, Toured Congressional Russell office building with Kata Sybenga the Viet Nam Memorial, Lincoln Memorial. Found names of Helens grandparents on Yad Vashem.
+</event>
+
+<event
+start="2009-07-05"
+end="2009-07-20"
+title="Newfoundland with Ann and Al."
+description=" "
+image="images/2000s/thumbs/2009-07-09-newfoundland-with-ann-al.png"
+link="images/2000s/fullsized/2009-07-09-newfoundland-with-ann-al.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+(!) exact dates. A turning point of sorts, on the trip back.
+</event>
+
+<event
+start="2009-07-20"
+end="2009-07-20"
+title="A moment."
+description=" "
+image="images/2000s/thumbs/2009-07-20-401-return-from-nfld.png"
+link="images/2000s/fullsized/2009-07-20-401-return-from-nfld.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+!!! Exact date, from photo. A turning point of sorts, on the trip back.
+</event>
+
+<event
+start="2009-08-20"
+end="2009-08-20"
+title="New York - Hair."
+description=" "
+image="images/2000s/thumbs/2009-08-12-new-york-city.png"
+link="images/2000s/fullsized/2009-08-12-new-york-city-moma.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+!!! Exact date, from photo. We saw Hair, MOMA, Ellis Island.
+</event>
+
+<event
+start="2009-09-29"
+end="2009-09-29"
+title="Karen Van Dyk died."
+description=" deaths."
+image="images/2000s/thumbs/2006-12-23-karen-Christmas-party-245.png"
+link="images/2000s/fullsized/2006-12-23-karen-Christmas-party-245.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+After a long series of illnesses.
+</event>
+
+<event
+start="2009-09-30"
+end="2009-09-30"
+title="Karens funeral."
+description=" deaths."
+image="images/2000s/thumbs/2009-09-30-karens-funeral.png"
+link="images/2000s/fullsized/2009-09-30-karens-funeral-sasha-jaxon.png"
+color=" blue"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/black.png"
+classname=" " >
+After a long series of illnesses
+</event>
+
+<event
+start="2010-10-01"
+end="2010-10-01"
+title="Totalled Accord near Peterborough."
+description=" cars"
+image="images/2000s/thumbs/2005-03-00-2001-accord.png"
+link="images/2000s/fullsized/2005-03-00-2001-accord.JPG"
+color=" red"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+Just started hyperventilating and failed to pull over. Wandered across the median into opposing traffic lanes, then ended up in the grass median. Really quite scary. I was charged with careless driving and fought it in court in Peterborough and successfully had it reduced to inappropriate use of the median or something. Quite an interesting day at the courthouse watching other people going through the justice system. The car was towed into Peterborough and Insurance paid for a new Dakota pickup rental (only thing available).
+</event>
+
+<event
+start="2010-10-10"
+end="2010-10-10"
+title="Joan Baez - Center in the Square."
+description="concerts"
+image="images/2010s/thumbs/20101010-joan-baez.png"
+link="images/2010s/fullsized/20101010-joan-baez.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+By ourselves, I believe.
+</event>
+
+<event
+start="2010-10-21"
+end="2010-10-24"
+title="Denver (Annalises Wedding)"
+description="Weddings"
+image="images/2010s/thumbs/2010-10-21-denver-helen.png"
+link="images/2000s/fullsized/2010-10-21-denver-helen.png"
+color=" pink"
+textcolor=" pink"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+We rented a Santa Fe or something, a Hyundai for sure, I think, and drove North for a day. Walked around a small lake at a park. Really enjoyed walking the downtown mall. Saw a movie.
+</event>
+
+<event
+start="2010-10-24"
+end="2016-01-31"
+title="2002 CRV"
+description=" cars"
+image="images/2010s/thumbs/2011-DSC_0101-2002-crv.png"
+link="images/2010s/fullsized/2015-07-05-crv.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+Purchased 2002 CRV from dealer on Weber St. in Waterloo. Five speed, black. Very nice.
+</event>
+
+<event
+start="2010-12-01"
+end="2010-12-01"
+title="Replaced water softener."
+description=" cars"
+image="images/2010s/thumbs/2015-03-01-water-softener.png"
+link="images/fullsized/2015-03-01-water-softener.png"
+color=" red"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/brown.png"
+classname=" " >
+I told them I did not want a water filter with it. They went ahead and installed one any way. Im pretty sure they knew perfectly well I didnt want it.
+</event>
+
+<event
+start="2010-12-28"
+end="2010-12-28"
+title="Skating."
+description="Skating at nearby pond."
+image="images/2010s/thumbs/2010-12-28-skating-nearby-pond-helen.png"
+link="images/2010s/fullsized/2010-12-28-skating-nearby-pond-helen.png"
+color=" red"
+textcolor=" orange"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+There was a little pond nearby and we tracked out there to skate for a while. I shot som video.
+</event>
+
+<event
+start="2011-07-15"
+end="2011-07-20"
+title="Connecticut (New Haven area)"
+description="Vacations"
+image="images/2010s/thumbs/2011-07-15-connecticut-essex-locomotive.png"
+link="images/2010s/fullsized/2011-07-15-connecticut-essex-locomotive.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+A week at a beautiful cottage in Connecticut near New Haven. There was a steam locomotive in a small town named Essex nearby. Also an old piano factory. We toured Yale but failed to ask about George Bushs Fraternity. We saw the movie Terence Malick film "Tree of Life" there, on a very, very hot day. The cottage itself was at the top of a pretty steep hill with barely a trail to it, but I enjoyed taking the CRV up it.
+</event>
+
+<event
+start="2011-12-17"
+end="2011-12-17"
+title="Art Dommasch died."
+description="milestones"
+image="images/2010s/thumbs/art_dommasch.png"
+link="images/2000s/fullsized/art_dommasch.png"
+color=" black"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/black.png"
+classname=" " >
+Of cancer, after a long battle.
+</event>
+
+<event
+start="2012-05-19"
+end="2012-05-22"
+title="New York with the De Zoetes."
+description=" NY Trip"
+image="images/2010s/thumbs/2012-05-19-new-york300.png"
+link="images/2010s/fullsized/2012-05-19-new-york-de-zoetes.JPG"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Trip to New York with Henk and Anna DeZoete. We went to Empire State Building, Central Park, a cathedral north of Central Park, Godspell at a Broadway Theatre, Brooklyn Bridge, MOMA. Wonderful weekend.
+</event>
+
+<event
+start="2012-07-25"
+end="2012-08-01"
+title="Mackinac Island."
+description="Vacations."
+image="images/2010s/thumbs/2012-07-25-makinaw-island.png"
+link="images/2010s/fullsized/2012-07-25-makinaw-island.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+Rented a cottage in Cheboygan, about 40 minute drive from Mackinaw City, from which we took a ferry to the island. No cars at all (except emergency vehicles)-- all horses and bikes. We toured an old fort on top of a hill. Very nice day. Confirmed: it is Mackinac Island, and Mackinaw City.
+</event>
+
+<event
+start="2012-12-01"
+end="2012-12-01"
+title="Upgraded motherboard."
+description=" "
+image="images/2010s/thumbs/2014-08-09-sara-matovic.png"
+link="images/2010s/fullsized/2014-08-09-sara-matovic.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-green-circle.png"
+classname=" " >
+Added lots of ram to handle CS6., new scanner, new lcd screen at home Notes here. Picture, yes, has nothing to do with anything.
+</event>
+
+<event
+start="2012-12-29"
+end="2012-12-29"
+title="Toronto, at Holiday Inn..."
+description="Toronto Trip"
+image="images/2010s/thumbs/2012-12-29-dundas-square-toronto-trip.png"
+link="images/2010s/fullsized/2012-12-29-dundas-square-toronto-trip.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+(!) date from photo at Dundas Square. Notes here. Not sure about this - probably stayed at Holiday Inn. I bought a hat, the grey one.
+</event>
+
+<event
+start="2013-01-07"
+end="2013-01-07"
+title="Skiing at Collingwood. With Gopro."
+description="Vacations."
+image="images/2010s/thumbs/2013-01-07skiing-collingwood300.png"
+link="images/2000s/fullsized/2013-01-07skiing-collingwood.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+By myself, with Gopro on ski pole for a while. Had a very good day, pretty good weather
+</event>
+
+<event
+start="2013-07-14"
+end="2013-07-21"
+title="San Francisco!"
+description="Trip to San Franciso - LA."
+image="images/2010s/thumbs/2013-03-14-san-francisco-la-trip.png"
+link="images/2010s/fullsized/2013-03-14-san-francisco-la-trip.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+(!) Incredibly great trip to San Franciso and LA, including Joshua Tree Park, Getty Museum Fishermans Wharf, Point Lobos, Venice Beach. Fabulous. We stayed with Sid and Adriana in Los Angeles for a few days and they generously drove us around.
+</event>
+
+<event
+start="2013-07-14"
+end="2013-07-21"
+title="Vacation New Hampshire."
+description=" "
+image="images/2010s/thumbs/2013-07new-hampshire300.png"
+link="images/2000s/fullsized/2013-07new-hampshire.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+Vacation at cottage in New Hampshire. Lovely cottage. Drove down to coast to see colonial village. Artsy town called Portsmouth. Founded in 1623 Also went to Concord, nice downtown, very hot. Saw great deals at thrift shop but passed on Dyson vacuum for $120-- regretfully.
+</event>
+
+<event
+start="2013-08-09"
+end="2013-08-16"
+title="Cottage in Magog PQ near Sherbrooke."
+description="Vacation at cottage in New Hampshire."
+image="images/2010s/thumbs/2013-08-09-magog-sherbrooke300.png"
+link="images/2010s/fullsized/2013-08-09-magog-sherbrooke.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+Really nice cottage but near a shallow river-- no swimming. Lots of ducks. We went into Sherbrooke, and into Magog for fun. There was a big festival nearby we went to.
+</event>
+
+<event
+start="2013-08-20"
+end="2013-08-20"
+title="Lady Windermeres Fan"
+description="Lady Windermeres Fan "
+image="images/2010s/thumbs/2013-08-20-lady-windermeres-fan-niag-on-the-lake.png"
+link="images/2010s/fullsized/2013-08-20-lady-windermeres-fan-niag-on-the-lake.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+Saw Lady Windermeres Fan, Shaw Festival, with De Zoetes. Went for dinner at "Fire Hall" in St. Davids after the play (afternoon production) then toured St. Davids. May have been the finest over-all production I have ever seen.
+</event>
+
+<event
+start="2014-01-14"
+end="2014-01-14"
+title="CRV: 232,533 Corolla: 183,744."
+description="Checking out car alternatives."
+image="images/2010s/fullsized/2015-01-DSC01598-2004-corolla.png"
+link="images/2010s/thumbs/2010-DSC01689-2004-corolla-montreal.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+Now are there notes?
+</event>
+
+<event
+start="2014-01-14"
+end="2014-01-14"
+title="Christopher starts dating girl named Lara."
+description="Whom he met on eHarmony or Plenty of Fish"
+image="images/2010s/thumbs/2013-10-26-christopher300.png"
+link="images/2010s/fullsized/2013-10-26-christopher.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/gray.png"
+classname=" " >
+Notes here and there. Did not last longer. Of course, he will keep trying for as long as it takes. Noted.
+</event>
+
+<event
+start="2014-06-24"
+end="2014-06-24"
+title="Bill and Danielle at Blue Jays Game."
+description="Blue Jays Game."
+image="images/2010s/thumbs/2014-06-24-19.44-bill-danielle-bluejays.png"
+link="images/2010s/fullsized/2014-06-24-19.44-bill-danielle-bluejays.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Went out for dinner downtown first, it was pouring rain, barely made it to the game on time. There was a problem with the online tickets-- I forget what-- but we got in without missing too much. Blue Jays won, I recall, with a dramatic finish.
+</event>
+
+<event
+start="2014-07-30"
+end="2014-07-30"
+title="Fiddler on the Roof - Stratford."
+description="In the afternoon, I believe."
+image="images/2010s/thumbs/2014-07-30-13stratford-fiddler300.png"
+link="images/2010s/fullsized/2014-07-30-13.21stratford-fiddler.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Enjoyed seeing Fiddler on the Roof at Stratford Festival, main stage
+</event>
+
+<event
+start="2014-09-14"
+end="2014-09-14"
+title="Olive Van Dyk."
+description="Olive Van Dyk"
+image="images/2010s/thumbs/2014-09-12-06.22-Olive.png"
+link="images/2010s/fullsized/2014-09-12-15.24-olive-daddy.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/pink.png"
+classname=" " >
+Olive Van Dyk is born in Montreal.
+</event>
+
+<event
+start="2015-01-29"
+end="2015-01-29"
+title="Minolta APO AF 70-200mm f2.8 Lens, from Japan."
+description="Beautiful looking lens. But Heavy."
+image="images/2010s/thumbs/2015-01-29minolta300.png"
+link="images/2010s/fullsized/2015-01-29minolta.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Bought on eBay from a vendor in Japan. This should be the THE lens for weddings, wildlife, etc. but it is HUGE and heavy.
+</event>
+
+<event
+start="2015-02-24"
+end="2015-02-24"
+title="Reorganized basement study."
+description="Using Lightwave to model the changes."
+image="images/2010s/thumbs/2015-02-24-reorganize-basement300.png"
+link="images/2010s/fullsized/2015-02-24-reorganize-basement.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/brown.png"
+classname=" " >
+Reorganized basement study. Should have done this ages ago: much nicer layout, much quieter at my desk
+</event>
+
+<event
+start="2015-01-12"
+end="2015-01-12"
+title="Ski trip, solo. Blue Mountain."
+description=" Skiing"
+image="images/2010s/thumbs/2013-01-07skiing-collingwood-bill300.png"
+link="images/2010s/fullsized/2013-01-07skiing-collingwood-bill.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Went skiing at Blue Mountain all day, about 11:00 to 9:30p.m. Great day but very, very cold. Nobody on the slopes by the time I quit. Had very nice meal at the restaurant there for about $12.00, which is pretty reasonable considering its a captive audience. Photo from 2013.
+</event>
+
+<event
+start="2015-01-26"
+end="2015-01-26"
+title="Purchased 2010 Corolla"
+description="60K on it"
+image="images/2010s/thumbs/2015-02-16-2010-corolla.png"
+link="images/2010s/fullsized/2015-02-16-2010-corolla.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+from Cambridge Center Honda for $10,500. Won $250 for test drive, then $250 more in other draw for buying. 60K on the Corolla. Date from reciept from bank, so I took possession a day or two later? No-- I did it the same day, transferred old Corolla to Christopher, and he drove me to pick up the new one.
+</event>
+
+<event
+start="2015-02-22"
+end="2015-02-22"
+title="Bent by Elephants Ontario Tour."
+description="BBE Ontario Tour"
+image="images/2010s/thumbs/2015-02-22-bbe-coach-house.png"
+link="images/2010s/fullsized/2015-02-22-bbe-coach-house.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+The band, Chesley, Luke, Ryan, Eric, and Paul and Laetitia (and Olive) stayed at our house from Sunday to Saturday.
+</event>
+
+<event
+start="2015-03-16"
+end="2015-03-18"
+title="Stayed at Tulip Motel in Huntsville."
+description="Vacations"
+image="images/2010s/thumbs/2015-03-17-tulip-motel-huntsville300.png"
+link="images/2010s/fullsized/2015-03-tulip-inn-huntsville.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Went on hike in Arrowhead Provincial Park to falls, about three hours or so. Nice breakfasts in Huntsville. Purchased jacket with hoodie on sale for 29.00.
+</event>
+
+<event
+start="2015-02-01"
+end="2017-12-31"
+title="2010 Corolla from Cambridge Honda."
+description="2014 Corolla to Christopher."
+image="images/2010s/thumbs/2015-03-tulip-inn-huntsville300.png"
+link="images/2010s/fullsized/2015-03-tulip-inn-huntsville.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/wheel.png"
+classname=" " >
+I got $1000 knocked off, then won $500 in some kind of draw they were having. Christopher got our old Corolla for a few thousand, which he paid back on monthly installments. After about a year, we "forgave" him the rest of the money, since we have basically given cars to Danielle and Paul.
+</event>
+
+<event
+start="2015-08-14"
+end="2015-08-24"
+title="Vacation Prague - Krakow - Budapest."
+description="Trip to Eastern Europe."
+image="images/2010s/thumbs/2015-08-12-07.06.03prague300.png"
+link="images/2010s/fullsized/2015-08-12-07.06.03prague.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+Flew to Prague, including Auschwitz-Berkinau, took train to Krakow and then, overnight, to Budapest. We stayed at Airbnb at all three cities.
+</event>
+
+<event
+start="2015-10-26"
+end="2015-10-28"
+title="Dayton Ohio to see Air Force Museum."
+description="Trip to Dayton, Ohio."
+image="images/2010s/thumbs/2015-10-dayton-ohio300.png"
+link="images/2010s/fullsized/2015-10-dayton-ohio.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/teal.png"
+classname=" " >
+(!) Exact date of this photo. Fantastic collection of military aircraft and historic aircraft from Wright Brothers on.
+</event>
+
+<event
+start="2016-01-19"
+end="2016-01-19"
+title="Paul and Laetitia and Olive down."
+description="Paul, Laetitia, Olive."
+image="images/2010s/thumbs/2012-05-19-new-york-de-zoetes.png"
+link="images/2010s/fullsized/2012-05-19-new-york-de-zoetes.JPG"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Paul and Laetitia and Olive down, to visit Grandma before she moves to old age home.
+</event>
+
+<event
+start="2015-12-13"
+end="2015-12-13"
+title="New York with the Van Eeks."
+description=" "
+image="images/2010s/thumbs/2015-12-12-15_45ny-van-eeks300.png"
+link="images/2010s/fullsized/2015-12-lincoln-center-ny.png"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+Rockefeller Center - 9/11 Memorial - Brandenburg Concertoes. Had a generally great weekend, and really enjoyed the Brandenberg Concertoes at the Lincoln Center, Alice Tully Hall. Went to 9/11 Memorial, Rockefeller Center to see Christmas tree, great view, and MOMA for a Picasso sculpture exhibit. Took the CRV. We went to Empire State Building, Central Park, a cathedral north of Central Park, Godspell at a Broadway Theatre, Brooklyn Bridge, MOMA. Wonderful weekend. Had a bit of car trouble on the way home near Scranton: the front left wheel came loose. Stopped at an odd garage: nobody there, except two guys talking. Old, old shop. Office all dusty. Old cigarette and candy machines coated in dust. Dog.
+</event>
+
+<event
+start="2016-01-19"
+end="2016-01-21"
+title="Paul Laetitia Olive visit."
+description="Description Field."
+image="images/2010s/thumbs/20110717-bent-quebec.png"
+link="images/2010s/fullsized/"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" Hello"
+icon="icons/teal.png"
+classname="hot_event" >
+Paul, Laetitia, Olive visit. Was a nice visit.
+</event>
+
+<event
+start="2021-09-01"
+end="2021-09-01"
+title="Retirement at 65."
+description="retirement"
+image="images/2010s/thumbs/bill_nl.png"
+link="images/2010s/fullsized/"
+color=" red"
+textcolor=" green"
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-red-circle.png"
+classname=" " >
+If not sooner. Or later. Or never.
+</event>
+
+<event
+start="2016-03-12"
+end="2016-03-15"
+title="Helen and Danielle go to Montreal"
+description=" "
+image="montreal.png"
+link="montreal.png"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon=" "
+classname=" " >
+Hello-- they will be visiting Paul and Laetitia and Olive to help with the move to the new apartment. And I created a bunch of php files to edit and add to the timeline database file. Now I just need to make a program to print out an xml versions.
+</event>
+
+<event
+start="2016-03-07"
+end="2016-03-07"
+title="Picked my nose."
+description=" "
+image="nose.png"
+link="nose.html"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon=" "
+classname=" " >
+No real connection to any actual files here. Just testing. I will add other fields. Soon. Honest. I did NOT pick my nose. Honest.
+</event>
+
+<event
+start="2016-04-03"
+end="2016-04-03"
+title="Tax Time"
+description=" "
+image="images\test.png"
+link="www.chromehorse.net"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon=" "
+classname=" " >
+Did taxes for myself, Helen, Danielle, and Christopher.
+</event>
+
+<event
+start="2016-04-16"
+end="2016-04-16"
+title="Our Town at Shaw"
+description=" "
+image="images/thumbs/2016-04-16-our-town-shaw.png"
+link="images/fullsized/2016-04-16-our-town-shaw.png"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-green-circle.png"
+classname=" " >
+Saw an exquisite performance of "Our Town" at Royal George in downtown Niagara-on-the-Lake with Calvin and Gloria, then a very nice dinner at Firehall in St. Davids, for about $200 for the four of us.
+</event>
+
+<event
+start="2015-06-20"
+end="2015-06-20"
+title="Saw Pygmalion at Shaw"
+description=" "
+image=" noimage"
+link=" nolink"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon=" "
+classname=" " >
+By ourselves: only 2 tickets purchased.
+</event>
+
+<event
+start="2016-05-21"
+end="2016-05-21"
+title="Saw A Chorus Line Stratford"
+description=" "
+image="stratford"
+link=" nolink"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon=" "
+classname=" " >
+Saw "A Chorus Line" at Stratford Festival Theatre. Stopped in Shakespeare for fresh cut fries, burger, sausage on the way down.
+</event>
+
+<event
+start="2016-12-09"
+end="2016-12-26"
+title="Paul, Laetitia, Olive, Kermit here"
+description=" "
+image=" "
+link=" "
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon=" "
+classname=" " >
+Paul and Laetitia came down, Paul had gig with Jason White on December 10 at United Church in Cambridge-- a Christmas thing.
+</event>
+
+<event
+start="2016-11-30"
+end="2016-11-30"
+title=" Testing"
+description=" "
+image="no image"
+link="no lingk"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" Kapshun"
+icon=" "
+classname=" " >
+does this actually work?
+</event>
+
+<event
+start="1972-03-11"
+end="1972-03-11"
+title="Lee Ann Green hit by car."
+description=" "
+image="images\1970s\full-sized\1972-03-13-lee-ann-green-news.png"
+link="images\1970s\full-sized\1972-03-13-lee-ann-green-news.png"
+color=" blue"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption="Lee Ann Green hit by car."
+icon="icons/pink.png"
+classname=" girls" >
+From Hamilton Spectator, Mondays paper, says she "succumbed" to injuries. Grave says March 13, which is a Monday. (Confirm please). So, she was hit on the 11th, and "succumbed" on the 13th, probably.
+</event>
+
+<event
+start="1963-12-01"
+end="1963-12-01"
+title="Harry smashes up 1939 Plymouth"
+description=" "
+image="images/1960s/thumbs"
+link="images/1960s/full"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Harrys Plymouth"
+icon="icons/dark-green-circle.png"
+classname=" " >
+After an argument with mom, he took off -- using spare keys, I believe because mom had taken away his regular keys-- and smashed into the abutment on the culvert over the creek.
+</event>
+
+<event
+start="1908-08-11"
+end="1908-08-11"
+title="Bertus Van Dyk born."
+description=" "
+image="images/1900s/thumbs/bertus.png"
+link="images/1900s/fullsized/bertus.png"
+color=" black"
+textcolor=" black"
+tapeImage=" "
+tapeRepeat=" "
+caption="Bertus Van Dyk"
+icon="icons/dark-green-circle.png"
+classname=" " >
+In the Netherlands, near Rotterdam.
+</event>
+
+<event
+start="2016-12-22"
+end="2016-12-22"
+title="Lunch at Tien Lees"
+description=" "
+image="images\thumbs\lunch.jpg"
+link="images\full\lunch.jpg"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Lunch at Tien Lees"
+icon="icons/dark-green-circle.png"
+classname=" " >
+"The annual IT festive celebration."
+</event>
+
+<event
+start="1973-07-01"
+end="1973-07-01"
+title="Moved to Tanbark Rd."
+description=" "
+image="images\1970s\thumbs\1973-06-bills-bed.png"
+link="images\1970s\thumbs\1973-06-n12-house-for-sale.png"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon="icons/dark-green-circle.png"
+classname=" " >
+Must have moved by then-- there is a photo with a reliable date. Besides, I lived there for about two years while I was in high school, driving both the 1963 Chevy Impala, and the Dodge Dart.
+</event>
+
+<event
+start="1972-03-11"
+end="1972-03-11"
+title="Lee Ann Green"
+description=" "
+image="images/1970s/thumbnails/1968-10-lee-green-gr-9.jpg"
+link="images/1970s/fullsized/1968-10-lee-green-gr-9.jpg"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="And the icon is brown."
+icon="icons/red.png"
+classname=" " >
+Hit by car driven by __ at traffic circle in Burlington, while returning from Toronto, hitchhiking. Tragic.
+</event>
+
+<event
+start="1954-10-01"
+end="1972-03-11"
+title="Lee Ann Green"
+description=" "
+image="images/1970s/thumbs/1972-03-11-lee-green-killed.jpg"
+link="images/1970s/fullsized/1972-03-11-lee-green-killed.jpg"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Lee Ann Green killed."
+icon="icons/pink.png"
+classname=" " >
+Lee Ann Green hit by car. Found gravestone in... Wainfleet? Check. Date is correct-- it was a Saturday. Why Wainfleet if she lived in St. Davids? Probably another relative was there. Check photos.
+</event>
+
+<event
+start="1972-10-01"
+end="1973-02-03"
+title="Grace Prinzen"
+description=" "
+image="images/1970s/thumbs/1970-grace-prinzen.png"
+link="images/1970s/thumbs/1970-grace-prinzen.png"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Grace Prinzen at Sherkston"
+icon="icons/dark-green-circle.png"
+classname=" girls" >
+Yes, girls, friends, whatever. She was fine. Met her again about 25 years later and she was glad to see me, which made me feel good about what our relationship had actually been like. I got the impression that she had kind memories of it. Most likely this was in 1995 or so-- I think it was 25th anniversary of Beacon starting. That could be 1970 when they moved to Trinity Church, or 1968 when they started at Calvin.
+</event>
+
+<event
+start="2017-07-30"
+end="2017-07-30"
+title="Saw Twelfth Night at Stratford."
+description=" "
+image=" noimage"
+link=" nolink"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Saw Twelfth Night at Stratford."
+icon=" noicon"
+classname="Entertainment" >
+At 2:00 in the afternoon. It was very good, very funny, and a nice afternoon out. Stopped at the chip wagon in Shakespeare on the way home for very good home-made burgers and fries.
+</event>
+
+<event
+start="2017-08-29"
+end="2017-08-29"
+title="Joan of Arc"
+description=" "
+image=" noimage"
+link=" nolink"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Saw Joan of Arc with Henk and Anna and Sid and Adriana"
+icon=" Family"
+classname=" Friends" >
+Had picnic lunch in the park, wandered downtown for a while, saw an excellent production, then dinner at the Firehall in St. Davids. Wonderful day.
+</event>
+
+<event
+start="2017-09-08"
+end="2017-09-16"
+title="Cottage at Godfrey"
+description=" "
+image="no image"
+link=" no link"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Cottage at Godfrey"
+icon=" no icon"
+classname=" family" >
+At the cottage. Christopher came for first two days; Paul, Laetitia, Kermit, Olive, Danielle, all for the rest of the week. Went to beautiful Frontenac Park for a hike, and Westport for a day. Wonderful kayaking and canoeing.
+</event>
+
+<event
+start="2017-08-08"
+end="2017-08-26"
+title="Trip to Dawson City"
+description=" "
+image="images/2017/thumbs/2017-08-11-salmon-glacier.jpg"
+link="images/2017/fullsized/2017-08-11-salmon-glacier.jpg"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Trip to Dawson"
+icon="icons/teal.png"
+classname=" travel" >
+Flew to Calgary, then Edmonton, and rented a Sportage to drive to Prince George, Stewart, Dease Lake, Teslin, White Horse, then Dawson. Fantastic trip with almost perfect weather.
+</event>
+
+<event
+start="2015-08-09"
+end="2015-08-09"
+title="Sara Matovic - Last Dance"
+description=" "
+image="images/2010s/thumbs/2014-08-09-sara-matovic.png"
+link="images/2010s/fullsized/2014-08-09-sara-matovic.png"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Sara Matovic at Zeeman - Van Eek Wedding"
+icon="icons/orange.png"
+classname=" girls" >
+During the dances, later at night, after most people had cleared the floor, Sara Matovic saw me with the camera. She came up to me, took my camera away and put it on a table and pulled me onto the dance floor and put her arms around me. Helen came along and "rescued" me.
+</event>
+
+<event
+start="2017-08-31"
+end="2017-08-31"
+title="Dawn Toering"
+description=" "
+image="images/2017/1200/2017-06-01-dawn-toering.jpg"
+link=" findone"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Christopher begins torrid love affair with femme fatale."
+icon=" yellow"
+classname=" " >
+Miraculous unassuming of puppy romance at this late stage of the game. How divinely expressive of a pristine elevation of purely Platonic mutual admiration.
+</event>
+
+<event
+start="2017-10-16"
+end="2017-10-16"
+title="molar pulled"
+description=" "
+image="images/generic/thumbs/bill.png"
+link="images/generic/fullsized/bill.png"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Tooth pulled"
+icon="icons/dark-green-circle.png"
+classname=" family" >
+Got a cavity in back, left, lower molar. Not really great candidate for filling, so had it pulled. Took about a half hour, not too painful.
+</event>
+
+<event
+start="2017-10-23"
+end="2017-10-23"
+title="Danielle - Lexus"
+description=" "
+image="images/2017/thumbs/2017-10-26-danielles-lexus.jpg"
+link="images/2017fullsized/2017-10-26-danielles-lexus.jpg"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="The Lexus!"
+icon="icons/dark-green-circle.png"
+classname=" cars" >
+For about $11,999, from Lakeshore Motors. The RX400h, a hybrid, with all the goodies. Gary Nguyen. She picked up around 9:00 a.m. October 26th. Gary accepted her 2008 Civic as a trade-in for about $1,000 including the snow tires on rims.
+</event>
+
+<event
+start="2017-10-26"
+end="2017-10-31"
+title="Paul, Laetitia, Kite down for visit"
+description=" "
+image="images/2017/thumbnails/2017-10-26-kite-visit.jpg"
+link="images/2017/fullsized/2017-10-26-kite-visit.jpg"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Visit from Montreal."
+icon="icons/dark-green-circle.png"
+classname=" family" >
+Arrived around 9:00 p.m. The two Erics arrived the same night.
+</event>
+
+<event
+start="2015-07-07"
+end="2015-07-14"
+title="Huntsville Cottage"
+description=" "
+image="images/2015-07-14-huntsville-cottage.png"
+link="images/2015-07-14-huntsville-cottage.png"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Family at cottage in Huntsville at Christian campground."
+icon=" blue"
+classname=" family" >
+The cottage was free, from a family involved in the Christian school-- any teacher could have it for a week or so. Everyone was there, including Olive of course. Nice area, of course. A beach, a snack bar, and little ATV sort of golf cart.
+</event>
+
+<event
+start="2014-08-09"
+end="2014-08-09"
+title="Landon and Helena Wedding"
+description=" "
+image="images/2010s/300/2014-08-09-sara-matovic.png"
+link="images/2010s/300/2014-08-09-sara-matovic.png"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Helena Van Eek marries Landon Zeaman"
+icon="icons/orange.png"
+classname=" Events" >
+I video-recorded this wedding, produced a blu-ray disk for the families. Was a lavish wedding, out at the Zeamans farm, lots of food and music and probably the highest number of beautiful young people Ive ever seen at a wedding. Christine DeGier was there too. Sara Matovic approached me for a dance late at night-- Helen rescued me.
+</event>
+
+<event
+start="2017-02-18"
+end="2017-02-18"
+title="We visit Montreal"
+description=" "
+image="images/2017/thumbs/2017-02-18-montreal.jpg"
+link="images/2017/fullsized/2017-02-18-montreal.jpg"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Visit to Montreal."
+icon="icons/blue.png"
+classname=" family" >
+We went to a tobogganing hill somewhere, had a snack in the cafe, checked out some animals in a little zoo there.
+</event>
+
+<event
+start="2014-07-06"
+end="2014-07-06"
+title="Visiting Bakers in Oshawa"
+description=" "
+image="images/2010s/thumbs/2014-07-06-at-bakers.png"
+link="images/2010s/fullsized/2014-07-06-at-bakers.png"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption=" "
+icon=" "
+classname=" " >
+Dropped by in Oshawa for a visit, probably driving up there for the visit, then back that night.
+</event>
+
+<event
+start="2017-12-01"
+end="2017-12-01"
+title="Peggys in Port Dalhousie"
+description=" "
+image="\images\generic\peggys.png"
+link=" blue"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Stayed overnight at Peggys."
+icon="icons/blue.png"
+classname=" friends" >
+Our annual excursion to Port Dalhousie with Calvin and Gloria to stay at Peggys overnight and go to her church bazaar.
+</event>
+
+<event
+start="2017-11-08"
+end="2017-11-08"
+title="New Samsung Galaxy S7"
+description=" "
+image="images/2010s/thumbs/2014-08-09-sara-matovic.png"
+link=" black"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="New Samsung Galaxy S7"
+icon="icons/black.png"
+classname=" Things" >
+Purchased for $400 used from someone on Kijiji who didnt want me to meet him at his house. We met in front of Walmart. I made the call and bought it and had a new (smaller" SIM put in at Koodo in the mall. So far so good.
+</event>
+
+<event
+start="1953-03-24"
+end="1953-03-24"
+title="Bertus and Maartje Immigrate"
+description=" "
+image="images/1900s/thumbs/1953-immigration.png"
+link=" purple"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Immigration to Canada"
+icon="icons/purple.png"
+classname=" family" >
+Aboard the S.S. Volendam. Check some of this information. They took a train from Halifax to Toronto, then a car to Niagara Falls. Dad worked at Dominion Safes for a while, then a farmer, then set up his own business.
+</event>
+
+<event
+start="1945-07-25"
+end="1945-07-25"
+title="Bertus and Maartje Marry"
+description=" "
+image="images/1900s/thumbs/1945-07-25-bertus-and-ma-van-dyk.png"
+link=" purple"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Bertus and Maartje Married"
+icon="icons/purple.png"
+classname=" " >
+In holland, Bertus was about 40 and Maartje was about 25 I believe. Check this.
+</event>
+
+<event
+start="1913-01-01"
+end="1913-01-01"
+title="Bertus Van Dyk at School"
+description=" "
+image="images/1900s/thumbs/1913-bertus-van-dyk-school.png"
+link=" purple"
+color=" "
+textcolor=" "
+tapeImage=" "
+tapeRepeat=" "
+caption="Bertus in School"
+icon="icons/purple.png"
+classname=" family" >
+Photo.
+</event>
+
+</data>
+

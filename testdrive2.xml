@@ -1,0 +1,179 @@
+<data>
+
+<event  
+start= "1997-06-06"
+end= "2005-07-13"
+title= "4Runner.  When end?."
+description= "It replaced the 1982 Malibu.  We then acquired Camry about same time?"
+image= "images/2000s/199707-nova-scotia034.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon= "icons/dark-green-circle.png"
+color= "blue"
+textcolor= "green">
+Notes here
+</event>
+   
+<event  
+start= "1997-07-06"
+end= "1997-07-13"
+title= "Vacation in Nova Scotia with Paul, Christopher, Danielle."
+description= "Including Bay of Fundy, Halifax, Cape Breton, and PEI. Not exact dates here.  We did go whale-watching twice."
+image= "images/1990s/199707-nova-scotia034.png"
+link= "http://www.chromehorse.net/timeline/details"
+tapeImage= "icons/blue_stripes.png"
+tapeRepeat= "repeat-x"
+icon= "icons/dark-green-circle.png"
+color= "blue"
+classname= "hot_event"
+textcolor= "green">
+The second time whale-watching with a kind of crazy guy in a smaller inflatable boat.
+</event>
+
+<event  
+start= "1999-07-01"
+end= "2012-12-31"
+title= "Moved to 11 Ramblewood Way."
+description= "Mikes movers, to very late.  Mortgage paid off February 2012."
+image= "images/2000s/200503-2001-accord.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon= "icons/dark-green-circle.png"
+textColor= "green">
+Notes here
+</event>
+
+<event  
+start= "2004-08-26"
+title= "Saw Blue Rodeo in Toronto, Ontario Place."
+description= "Ran into Rick and Stacey who were also there. Dated picture."
+image= "images/2000s/2004-08-14-blue-rodeo.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon= "icons/dark-red-circle.png"
+color= "blue"
+textcolor= "green">
+Notes here
+</event>
+
+
+<event  
+start= "2005-06-30"
+end= "2005-07-04"
+title= "Vacation in New York City with Paul and Danielle."
+description= "Sinister conspiracy to deceive us all."
+image= "images/2000s/20050630-new-york.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon= "icons/dark-red-circle.png"
+color= "blue"
+textcolor= "green">
+We did the bus tour, which was actually fun-- we had a good guide.  Then a boat tour around Manhattan island.  Greenwhich village, WTC, Central Park
+where we found Lennon's memorial.
+</event>
+
+<event  
+start= "2006-07-13"
+end= "2006-07-14"
+title= "Vacation in Boston."
+description= "Actually, to a motel in a small town north of Boston, York Beach, at Cutty Sark Hotel."
+image= "images/2000s/20060713-boston.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon= "icons/dark-red-circle.png"
+color= "blue"
+textcolor= "green">
+Notes here
+</event>
+
+<event  
+start= "2007-10-02"
+end= "2007-10-09"
+title= "Helen donates kidney."
+description= "At St. Michael\'s in Toronto. One week recovery"
+image= "images/canal.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon= "icons/dark-red-circle.png"
+color= "blue"
+textcolor= "green">
+Notes here
+</event>
+
+<event  
+start= "2007-07-02"
+end= "2007-08-09"
+title= "Trip to BC with Al and Ann."
+description= "Ending on Vancouver Island at Karin\'s birthday party near Comox."
+image= "images/2000s/20070721-bc-vacation.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon= "icons/dark-red-circle.png"
+color= "blue"
+textcolor= "green">
+There was a bizarre incident with one of Karin's close friends-- an inappropriate kiss or something.
+</event>
+
+<event  
+start= "2009-03-12"
+end= "2009-03-15"
+title= "Trip to Washington DC."
+description= "Ending on Vancouver Island at Karin\'s birthday party near Comox."
+image= "images/2000s/20090312-washington.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon= "icons/dark-red-circle.png"
+color= "blue"
+textcolor= "green">
+Notes here
+</event>
+  
+<event  
+start= "2000-07-06"
+end= "2000-07-31"
+title= "Vacation in BC with Christopher and Danielle."
+description= "Including Vancouver, Tofino, Vernon."
+image= "images/2000s/2000-07-19-bc-vacation-133.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon= "icons/dark-red-circle.png"
+color= "blue"
+textcolor= "green">
+Notes here
+</event>
+     
+<event  
+start= "1982-08-02"
+end= "1982-08-05"
+title= "ICS Conference, Rinke, Sonya."
+description= "Was this the year I played in the band?"
+image= "images/1980s/198208a-n01-ics-conference-05-helen-van.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon= "icons/dark-red-circle.png"
+color= "blue"
+textcolor= "green">
+Notes here
+</event>
+
+<event  
+start= "2010-10-01"
+title= "Totalled Accord near Peterborough."
+description= "Blacked out while driving towards Peterborough for Front Page training."
+image= "images/bill_nl.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon= "icons/dark-red-circle.png"
+color= "red"
+textcolor= "green">
+Just started hyperventilating and failed to pull over.  Wandered across the median into opposing traffic
+lanes, then ended up in the grass median.  Really quite scary.  I was charged with careless driving and 
+fought it in court in Peterborough and successfully had it reduced to inappropriate use of the median or 
+something.  Quite an interesting day at the courthouse watching other people going through the justice
+system.
+</event>
+
+<event  
+start= "2012-12-01"
+title= "Upgraded motherboard, new scanner, new lcd screen at home."
+description= "Added lots of ram to handle CS6."
+image= "images/bill_nl.png"
+link= "http://www.chromehorse.net/timeline/details"
+icon= "icons/dark-red-circle.png"
+color= "red"
+textcolor= "green">
+Notes here
+</event>
+	
+
+</data>
+
